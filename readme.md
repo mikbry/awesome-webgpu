@@ -24,33 +24,37 @@
 
 [WIP Specs](https://gpuweb.github.io/gpuweb/) - Offcial Specifications
 [Firefox Nightly can run WebGPU compute demo](https://www.reddit.com/r/firefox/comments/eu0xxi/firefox_nightly_can_run_webgpu_compute_demo/)
+
 ## Browser support
 
-About this section. Optional. Keep this short and focus on the list.
+Support is actually available as an experimental feature on [Chrome Canary](https://www.google.com/chrome/canary/), [Edge Canary](https://www.microsoftedgeinsider.com/en-us/download), [Firefox Nightly](https://nightly.mozilla.org/) and [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/).
 
-- [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - From Official 
-- [Chrome Platform Status](https://www.chromestatus.com/feature/6213121689518080)
-- [WebGPU and WSL in Safari](https://webkit.org/blog/9528/webgpu-and-wsl-in-safari/)
+- [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - From Official W3C Group
+- [Chrome Platform Status](https://www.chromestatus.com/feature/6213121689518080) - From Chrome dev
+- [WebGPU and WSL in Safari](https://webkit.org/blog/9528/webgpu-and-wsl-in-safari/) - From Webkit website
 
 ## Articles
 
 - [Get started with GPU Compute on the Web](https://developers.google.com/web/updates/2019/08/get-started-with-gpu-compute-on-the-web)
 - [Implementing WebGPU in Gecko](https://kvark.github.io/web/gpu/gecko/2019/12/10/gecko-webgpu.html)
 
-
 ## Tutorials
 
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu)
-- [List item](http://example.com)
 - [WebGPU training](https://github.com/drawmindmap/webgpu-training) - Not finished
-
+- [Real-Time Ray-Tracing in WebGPU](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/)
 
 ## Libraries
 
-- [Babylon.js](https://doc.babylonjs.com/extensions/webgpu)
+- [Babylon.js](https://doc.babylonjs.com/extensions/webgpu) - Experimental support
 - [Three.js](https://github.com/takahirox/THREE.WebGPURenderer) - Experimental support
+- [Dawn](https://dawn.googlesource.com/dawn) - Google implementation
+- [Gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Mozilla implementation
+- [Webcore module WebGPU](https://trac.webkit.org/browser/webkit/trunk/Source/WebCore/Modules/webgpu) - Webkit / Safari
 
 ## Demos
+
+If they are not from Apple, demos will work only on Chrome. Firefox implementation is not complete.
 
 - [Safari Webkit demos](https://webkit.org/demos/webgpu/)
 - [WebGPU Samples](https://austineng.github.io/webgpu-samples/) - by Austin Eng (Google)
@@ -58,6 +62,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Small examples of SPIR-V compatible WebGPU usage](https://tsherif.github.io/webgpu-examples/) - by [Tarek Sherif](https://github.com/tsherif)
 - [Three.js WebGPURenderer](https://takahirox.github.io/THREE.WebGPURenderer/examples/index.html) - by [Takahiro](https://github.com/takahirox)
 - [WebGPU point cloud](https://github.com/m-schuetz/webgpu_pointcloud) - by [Markus Schütz](https://github.com/m-schuetz)
+- [Forest WebGPU](https://www.babylonjs.com/demos/webgpu/forestwebgpu) - by Babylon.js
 
 ## Videos
 
@@ -69,11 +74,18 @@ About this section. Optional. Keep this short and focus on the list.
 ## Presentations
 
 - [Google Tint](https://docs.google.com/presentation/d/1qHhFq0GJtY_59rNjpiHU--JW4bW4Ji3zWei-gM6cabs/edit#slide=id.p) - Proposal for textual shader language
-- [Building WebGPU with Rust](https://fosdem.org/2020/schedule/event/rust_webgpu/)
+- [Building WebGPU with Rust](https://fosdem.org/2020/schedule/event/rust_webgpu/) - By [Kvark](https://github.com/kvark) from Mozilla
 
 ## Community
 
+- [Public GPU](https://lists.w3.org/Archives/Public/public-gpu/) - W3C Mailing list
 - [Gitter chat](https://gitter.im/gfx-rs/webgpu) - by Mozilla
+- [Matrix WebGPU](https://matrix.to/#/#WebGPU:matrix.org) - Unofficial channel
+
+### Bug support
+- [Webkit](https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&component=WebGPU)
+- [Firefox](https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Graphics%3A%20WebGPU)
+- [Chromium](https://bugs.chromium.org/p/chromium/issues/list?q=component:Blink%3EWebGPU)
 
 ## Contribute
 
