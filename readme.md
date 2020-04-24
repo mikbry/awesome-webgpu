@@ -22,8 +22,11 @@
 
 [GPUWeb](https://github.com/gpuweb/gpuweb) - Offical Github repository
 
-[WIP Specs](https://gpuweb.github.io/gpuweb/) - Offcial Specifications
+[WIP Specs](https://gpuweb.github.io/gpuweb/) - Official Specifications
+
 [Firefox Nightly can run WebGPU compute demo](https://www.reddit.com/r/firefox/comments/eu0xxi/firefox_nightly_can_run_webgpu_compute_demo/)
+
+[WebGPU shading language](https://gpuweb.github.io/gpuweb/wgsl.html)
 
 ## Browser support
 
@@ -32,11 +35,16 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 - [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - From Official W3C Group
 - [Chrome Platform Status](https://www.chromestatus.com/feature/6213121689518080) - From Chrome dev
 - [WebGPU and WSL in Safari](https://webkit.org/blog/9528/webgpu-and-wsl-in-safari/) - From Webkit website
+-[WebGPU on iOS](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - Don't work on my iPhone6+
+
 
 ## Articles
 
 - [Get started with GPU Compute on the Web](https://developers.google.com/web/updates/2019/08/get-started-with-gpu-compute-on-the-web)
 - [Implementing WebGPU in Gecko](https://kvark.github.io/web/gpu/gecko/2019/12/10/gecko-webgpu.html)
+- [A Taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/)
+- [From WebGL to WebGPU in Construct](https://www.construct.net/en/blogs/ashleys-blog-2/webgl-webgpu-construct-1519)
+- [wgpu-rs on the web](https://gfx-rs.github.io/2020/04/21/wgpu-web.html)
 
 ## Tutorials
 
@@ -79,7 +87,7 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 ## Community
 
 - [Public GPU](https://lists.w3.org/Archives/Public/public-gpu/) - W3C Mailing list
-- [Gitter chat](https://gitter.im/gfx-rs/webgpu) - by Mozilla
+- [Gitter chat](https://gitter.im/gfx-rs/webgpu) - by Mozilla - DEPRECATED
 - [Matrix WebGPU](https://matrix.to/#/#WebGPU:matrix.org) - Unofficial channel
 
 ### Bug support
