@@ -99,6 +99,7 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 - [Public GPU](https://lists.w3.org/Archives/Public/public-gpu/) - W3C Mailing list
 - [Gitter chat](https://gitter.im/gfx-rs/webgpu) - by Mozilla - DEPRECATED
 - [Matrix WebGPU](https://matrix.to/#/#WebGPU:matrix.org) - Unofficial channel
+- [YC Point of WebGPU on native](https://news.ycombinator.com/item?id=23079200) - discussion regarding this article
 
 ### Bug support
 - [Webkit](https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&component=WebGPU)
