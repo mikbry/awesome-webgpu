@@ -45,6 +45,9 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 - [A Taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/)
 - [From WebGL to WebGPU in Construct](https://www.construct.net/en/blogs/ashleys-blog-2/webgl-webgpu-construct-1519)
 - [wgpu-rs on the web](https://gfx-rs.github.io/2020/04/21/wgpu-web.html)
+- [Compiling Machine Learning to WASM and WebGPU with Apache TVM](https://tvm.apache.org/2020/05/14/compiling-machine-learning-to-webassembly-and-webgpu)
+- [A brief history of graphics on the web and WebGPU](https://damianfallon.blogspot.com/2020/04/a-brief-history-of-graphics-on-web-and.html?spref=tw)
+- [Point of WebGPU native](http://kvark.github.io/web/gpu/native/2020/05/03/point-of-webgpu-native.html)
 
 ## Tutorials
 
@@ -59,6 +62,10 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 - [Dawn](https://dawn.googlesource.com/dawn) - Google implementation
 - [Gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Mozilla implementation
 - [Webcore module WebGPU](https://trac.webkit.org/browser/webkit/trunk/Source/WebCore/Modules/webgpu) - Webkit / Safari
+- [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - WebGPU/Dawn experimental
+- [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) -  C/C++ headers
+- [sokol](https://github.com/floooh/sokol/issues/278) - WebGPU Backend TODO
+- [WebGPU for Node](https://github.com/maierfelix/webgpu) - Based on Dawn
 
 ## Demos
 
@@ -71,6 +78,9 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 - [Three.js WebGPURenderer](https://takahirox.github.io/THREE.WebGPURenderer/examples/index.html) - by [Takahiro](https://github.com/takahirox)
 - [WebGPU point cloud](https://github.com/m-schuetz/webgpu_pointcloud) - by [Markus Schütz](https://github.com/m-schuetz)
 - [Forest WebGPU](https://www.babylonjs.com/demos/webgpu/forestwebgpu) - by Babylon.js
+- [WebGPU-Playground](https://github.com/06wj/WebGPU-Playground)
+-[webgpu examples](https://github.com/maierfelix/webgpu-examples) - examples for node-webgpu
+- [Dawn RT] - (https://github.com/maierfelix/dawn-ray-tracing) - Ray tracing extension for Dawn/WebGPU
 
 ## Videos
 
