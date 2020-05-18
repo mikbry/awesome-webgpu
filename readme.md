@@ -78,9 +78,9 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 - [Three.js WebGPURenderer](https://takahirox.github.io/THREE.WebGPURenderer/examples/index.html) - by [Takahiro](https://github.com/takahirox)
 - [WebGPU point cloud](https://github.com/m-schuetz/webgpu_pointcloud) - by [Markus Schütz](https://github.com/m-schuetz)
 - [Forest WebGPU](https://www.babylonjs.com/demos/webgpu/forestwebgpu) - by Babylon.js
-- [WebGPU-Playground](https://github.com/06wj/WebGPU-Playground)
--[webgpu examples](https://github.com/maierfelix/webgpu-examples) - examples for node-webgpu
-- [Dawn RT] - (https://github.com/maierfelix/dawn-ray-tracing) - Ray tracing extension for Dawn/WebGPU
+- [WebGPU-Playground](https://github.com/06wj/WebGPU-Playground) - by @06wj
+- [webgpu examples](https://github.com/maierfelix/webgpu-examples) - examples for node-webgpu
+- [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) - Ray tracing extension for Dawn/WebGPU
 
 ## Videos
 
