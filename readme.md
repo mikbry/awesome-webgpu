@@ -48,6 +48,7 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 - [Compiling Machine Learning to WASM and WebGPU with Apache TVM](https://tvm.apache.org/2020/05/14/compiling-machine-learning-to-webassembly-and-webgpu)
 - [A brief history of graphics on the web and WebGPU](https://damianfallon.blogspot.com/2020/04/a-brief-history-of-graphics-on-web-and.html?spref=tw)
 - [Point of WebGPU native](http://kvark.github.io/web/gpu/native/2020/05/03/point-of-webgpu-native.html)
+- [The WebAssembly App Gap](https://paulbutler.org/2020/the-webassembly-app-gap/) - Why WebAssenbly + WebGPU is hot
 
 ## Tutorials
 
@@ -81,6 +82,7 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 - [WebGPU-Playground](https://github.com/06wj/WebGPU-Playground) - by @06wj
 - [webgpu examples](https://github.com/maierfelix/webgpu-examples) - examples for node-webgpu
 - [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) - Ray tracing extension for Dawn/WebGPU
+- [WebGPU Experiments](https://www.willusher.io/webgpu-experiments/) - By  @_wusher
 
 ## Videos
 
