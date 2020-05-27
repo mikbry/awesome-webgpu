@@ -67,7 +67,7 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) -  C/C++ headers
 - [sokol](https://github.com/floooh/sokol/issues/278) - WebGPU Backend TODO
 - [WebGPU for Node](https://github.com/maierfelix/webgpu) - Based on Dawn
-
+- [RedGPU](https://github.com/redcamel/RedGPU) - By @redcamel
 ## Demos
 
 If they are not from Apple, demos will work only on Chrome. Firefox implementation is not complete.
