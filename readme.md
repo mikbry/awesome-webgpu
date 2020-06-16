@@ -74,6 +74,7 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 
 If they are not from Apple, demos will work only on Chrome. Firefox implementation is not complete.
 
+- [Calculate and render particles with WebGPU](https://github.com/hsimpson/webgpu-particles) by Daniel Toplak
 - [Safari Webkit demos](https://webkit.org/demos/webgpu/)
 - [WebGPU Samples](https://austineng.github.io/webgpu-samples/) - by Austin Eng (Google)
 - [WebGPU study](https://redcamel.github.io/webgpu/) - by [Redcamel](https://github.com/redcamel)
