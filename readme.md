@@ -53,6 +53,7 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 
 ## Tutorials
 
+- [LearningWebGPU 教程 (Chinese)](https://github.com/hjlld/LearningWebGPU) - by hjlld
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu)
 - [WebGPU training](https://github.com/drawmindmap/webgpu-training) - Not finished
 - [Real-Time Ray-Tracing in WebGPU](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/)
