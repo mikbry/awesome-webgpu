@@ -15,8 +15,9 @@
 - [Videos](#videos)
 - [Presentations](#presentations)
 - [Community](#community)
+- [Bug support](#bug-support)
 
-## Website
+## Websites
 
  [GPU for the Web Community Group](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - Official website 
 
@@ -108,7 +109,7 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 - [Matrix WebGPU](https://matrix.to/#/#WebGPU:matrix.org) - Unofficial channel
 - [YC Point of WebGPU on native](https://news.ycombinator.com/item?id=23079200) - discussion regarding this article
 
-### Bug support
+## Bug support
 - [Webkit](https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&component=WebGPU)
 - [Firefox](https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Graphics%3A%20WebGPU)
 - [Chromium](https://bugs.chromium.org/p/chromium/issues/list?q=component:Blink%3EWebGPU)
