@@ -23,11 +23,11 @@
 
 [GPUWeb](https://github.com/gpuweb/gpuweb) - Offical Github repository
 
-[WIP Specs](https://gpuweb.github.io/gpuweb/) - Official Specifications
+[Editor’s Draft, 6 August 2020](https://gpuweb.github.io/gpuweb/) - Official Specifications 
 
 [Firefox Nightly can run WebGPU compute demo](https://www.reddit.com/r/firefox/comments/eu0xxi/firefox_nightly_can_run_webgpu_compute_demo/)
 
-[WebGPU shading language](https://gpuweb.github.io/gpuweb/wgsl.html)
+[WebGPU shading language](https://gpuweb.github.io/gpuweb/wgsl.html) - WGSL
 
 ## Browser support
 
@@ -36,11 +36,12 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 - [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - From Official W3C Group
 - [Chrome Platform Status](https://www.chromestatus.com/feature/6213121689518080) - From Chrome dev
 - [WebGPU and WSL in Safari](https://webkit.org/blog/9528/webgpu-and-wsl-in-safari/) - From Webkit website
--[WebGPU on iOS](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - Don't work on my iPhone6+
-
+- [WebGPU on iOS](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - Don't work on my iPhone6+
+- [Servo MVP](https://github.com/servo/servo/projects/24) - WebGPU MVP
 
 ## Articles
 
+- [Graphics on the web and beyond with WebGPU](https://medium.com/@dmnsgn/graphics-on-the-web-and-beyond-with-webgpu-13c4ba049039) - by Damien Seguin @dmnsgn
 - [From 0 to glTF with WebGPU](https://www.willusher.io/graphics/2020/06/15/0-to-gltf-triangle) by @_wusher
 - [Get started with GPU Compute on the Web](https://developers.google.com/web/updates/2019/08/get-started-with-gpu-compute-on-the-web)
 - [Implementing WebGPU in Gecko](https://kvark.github.io/web/gpu/gecko/2019/12/10/gecko-webgpu.html)
@@ -71,6 +72,8 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 - [sokol](https://github.com/floooh/sokol/issues/278) - WebGPU Backend TODO
 - [WebGPU for Node](https://github.com/maierfelix/webgpu) - Based on Dawn
 - [RedGPU](https://github.com/redcamel/RedGPU) - By @redcamel
+- [WebGPU .NET](https://github.com/WaveEngine/WebGPU.NET)
+- [Deno roadmap](https://twitter.com/trivikram/status/1275469111674322945) GPU APIs (WebGPU) to support ML apps
 
 ## Demos
 
@@ -89,6 +92,7 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 - [webgpu examples](https://github.com/maierfelix/webgpu-examples) - examples for node-webgpu
 - [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) - Ray tracing extension for Dawn/WebGPU
 - [WebGPU Experiments](https://www.willusher.io/webgpu-experiments/) - By  @_wusher
+- [wgpu-load-test](https://github.com/MacTuitui/wgpu-load-test) - by @MacTuitui
 
 ## Videos
 
@@ -108,6 +112,7 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 - [Gitter chat](https://gitter.im/gfx-rs/webgpu) - by Mozilla - DEPRECATED
 - [Matrix WebGPU](https://matrix.to/#/#WebGPU:matrix.org) - Unofficial channel
 - [YC Point of WebGPU on native](https://news.ycombinator.com/item?id=23079200) - discussion regarding this article
+- [Possibility of SPIR-V and/or GLSL as a WebGPU extension?](https://github.com/gpuweb/gpuweb/issues/847) - WGSL in debate
 
 ## Bug support
 - [Webkit](https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&component=WebGPU)
