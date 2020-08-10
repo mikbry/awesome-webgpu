@@ -15,7 +15,7 @@
 - [Videos](#videos)
 - [Presentations](#presentations)
 - [Community](#community)
-- [Bug support](#bug-support)
+- [Bug reporting](#bug-reporting)
 
 ## Websites
 
@@ -114,7 +114,7 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 - [YC Point of WebGPU on native](https://news.ycombinator.com/item?id=23079200) - discussion regarding this article
 - [Possibility of SPIR-V and/or GLSL as a WebGPU extension?](https://github.com/gpuweb/gpuweb/issues/847) - WGSL in debate
 
-## Bug support
+## Bug reporting
 - [Webkit](https://bugs.webkit.org/buglist.cgi?bug_status=UNCONFIRMED&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&component=WebGPU)
 - [Firefox](https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Graphics%3A%20WebGPU)
 - [Chromium](https://bugs.chromium.org/p/chromium/issues/list?q=component:Blink%3EWebGPU)
