@@ -9,7 +9,7 @@
 - [Websites](#websites)
 - [Browser support](#browser-support)
 - [Articles](#articles)
-- [Tutorial](#tutorial)
+- [Tutorials](#tutorials)
 - [Demos](#demos)
 - [Libraries](#libraries)
 - [Videos](#videos)
