@@ -2,7 +2,7 @@
 
 > Lovely curated list of WebGPU ressources, libraries and tools.
 
-[WebGPU](https://en.wikipedia.org/wiki/WebGPU) is a work in progress [Web standard from W3C](https://gpuweb.github.io/gpuweb/) for modern 3D and GPU computing. Its purpose is to get the best performances from recent GPUs from desktop to mobile. Unlike WebGL, WebGPU is not a port of an existing native API. It borrows concepts from Metal, Vulkan and Direct3D12.
+[WebGPU](https://en.wikipedia.org/wiki/WebGPU) is a work in progress [Web standard from W3C](https://gpuweb.github.io/gpuweb/) for modern 3D and GPU computing. Its purpose is to get the best performances on recent GPUs from desktop to mobile. Unlike WebGL, WebGPU is not a port of an existing native API. It borrows concepts from Metal, Vulkan and Direct3D12.
 
 ## Contents
 
