@@ -93,9 +93,9 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 - [WebGPU-Playground](https://github.com/06wj/WebGPU-Playground) - by @06wj
 - [webgpu examples](https://github.com/maierfelix/webgpu-examples) - examples for node-webgpu
 - [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) - Ray tracing extension for Dawn/WebGPU
-- [WebGPU Experiments](https://www.willusher.io/webgpu-experiments/) - By  @_wusher
+- [WebGPU Experiments](https://www.willusher.io/webgpu-experiments/) - by  @_wusher
 - [wgpu-load-test](https://github.com/MacTuitui/wgpu-load-test) - by @MacTuitui
-
+- [WGSL-Toy](https://github.com/ValeeraJS/WGSL-Toy) - by @HypnosNova
 ## Videos
 
 - [From WebGL to WebGPU: A perspective from Babylon js by David Catuhe](https://www.youtube.com/watch?v=A2FxeEl4nWw)
