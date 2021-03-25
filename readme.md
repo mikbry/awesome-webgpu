@@ -25,7 +25,7 @@
 
 [GPUWeb](https://github.com/gpuweb/gpuweb) - Offical Github repository
 
-[Editor’s Draft, 6 August 2020](https://gpuweb.github.io/gpuweb/) - Official Specifications 
+[Editor’s Draft, Editor’s Draft, 24 March 2021](https://gpuweb.github.io/gpuweb/) - Official Specifications 
 
 [Firefox Nightly can run WebGPU compute demo](https://www.reddit.com/r/firefox/comments/eu0xxi/firefox_nightly_can_run_webgpu_compute_demo/)
 
