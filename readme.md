@@ -75,8 +75,8 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 - [WebGPU for Node](https://github.com/maierfelix/webgpu) - Based on Dawn
 - [RedGPU](https://github.com/redcamel/RedGPU) - By @redcamel
 - [WebGPU .NET](https://github.com/WaveEngine/WebGPU.NET)
-- [Deno roadmap](https://twitter.com/trivikram/status/1275469111674322945) GPU APIs (WebGPU) to support ML apps
-
+- [Deno roadmap](https://twitter.com/trivikram/status/1275469111674322945) - GPU APIs (WebGPU) to support ML apps
+- [RedCube][https://github.com/Reon90/redcube] - GLTF implementation based on WebGPU backend
 ## Demos
 
 If they are not from Apple, demos will work only on Chrome. Firefox implementation is not complete.
