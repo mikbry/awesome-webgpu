@@ -31,6 +31,7 @@
 
 [WebGPU shading language](https://gpuweb.github.io/gpuweb/wgsl.html) - WGSL
 
+[API Quick Reference](https://webgpu.rocks/) - WebGPU.rocks: quick reference and API documentation
 ## Browser support
 
 Support is actually available as an experimental feature on [Chrome Canary](https://www.google.com/chrome/canary/), [Edge Canary](https://www.microsoftedgeinsider.com/en-us/download), [Firefox Nightly](https://nightly.mozilla.org/) and [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/).
