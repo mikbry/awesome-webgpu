@@ -58,6 +58,8 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 
 ## Tutorials
 
+- [Learn Wpgpu](https://sotrh.github.io/learn-wgpu/) - Examples and Showcase Rust + Wgpu
+
 - [LearningWebGPU 教程 (Chinese)](https://github.com/hjlld/LearningWebGPU) - by hjlld
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu)
 - [WebGPU training](https://github.com/drawmindmap/webgpu-training) - Not finished
@@ -97,6 +99,8 @@ If they are not from Apple, demos will work only on Chrome. Firefox implementati
 - [WebGPU Experiments](https://www.willusher.io/webgpu-experiments/) - by  @_wusher
 - [wgpu-load-test](https://github.com/MacTuitui/wgpu-load-test) - by @MacTuitui
 - [WGSL-Toy](https://github.com/ValeeraJS/WGSL-Toy) - by @HypnosNova
+
+- [WebGPU: Getting started & glTF Viewer](https://github.com/oktomus/web-experiments)
 ## Videos
 
 - [From WebGL to WebGPU: A perspective from Babylon js by David Catuhe](https://www.youtube.com/watch?v=A2FxeEl4nWw)
