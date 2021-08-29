@@ -80,6 +80,11 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 - [WebGPU .NET](https://github.com/WaveEngine/WebGPU.NET)
 - [Deno roadmap](https://twitter.com/trivikram/status/1275469111674322945) - GPU APIs (WebGPU) to support ML apps
 - [RedCube][https://github.com/Reon90/redcube] - GLTF implementation based on WebGPU backend
+
+## Gists
+- [3D SDF Primitives](https://gist.github.com/munrocket/f247155fc22ecb8edf974d905c677de1) - in WGSL by @munrocket
+- [2D SDF Primitives](https://gist.github.com/munrocket/30e645d584b5300ee69295e54674b3e4) - in WGSL by @munrocket
+
 ## Demos
 
 If they are not from Apple, demos will work only on Chrome. Firefox implementation is not complete.
