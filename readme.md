@@ -59,11 +59,11 @@ Support is actually available as an experimental feature on [Chrome Canary](http
 ## Tutorials
 
 - [Learn Wpgpu](https://sotrh.github.io/learn-wgpu/) - Examples and Showcase Rust + Wgpu
-
 - [LearningWebGPU 教程 (Chinese)](https://github.com/hjlld/LearningWebGPU) - by hjlld
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu)
 - [WebGPU training](https://github.com/drawmindmap/webgpu-training) - Not finished
 - [Real-Time Ray-Tracing in WebGPU](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/)
+- [Build a compute rasterizer in WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md#how-to-build-a-compute-rasterizer-with-webgpu)
 
 ## Libraries
 
