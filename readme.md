@@ -110,7 +110,7 @@
 Demos might work only on Chrome. Firefox implementation is not complete.
 
 - [WebGPU Samples](https://austineng.github.io/webgpu-samples/) - by [Austin Eng](https://github.com/austinEng) (Google) - [repository](https://github.com/austinEng/webgpu-samples)
-- [WebGPUniverse](https://webgpu-playground.netlify.app) - by students from Imperial College London
+- [WebGPUniverse](https://webgpuniverse.netlify.app) - by students from Imperial College London
 - [WebGPU first-person exploration of the Sponza Palace](https://toji.github.io/webgpu-test/) - by [Brandon Jones](https://github.com/toji) - [repository](https://github.com/toji/webgpu-test)
 - [WebGPU Clustered Shading](https://toji.github.io/webgpu-clustered-shading/) - by [Brandon Jones](https://github.com/toji) - [repository](https://github.com/toji/webgpu-clustered-shading)
 - [WebGPU Metaballs](https://toji.github.io/webgpu-metaballs/) - by [Brandon Jones](https://github.com/toji) - [repository](https://github.com/toji/webgpu-metaballs)
