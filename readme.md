@@ -99,6 +99,7 @@
 - [WebGPU .NET](https://github.com/WaveEngine/WebGPU.NET)
 - [Deno roadmap](https://twitter.com/trivikram/status/1275469111674322945) - GPU APIs (WebGPU) to support ML apps
 - [RedCube](https://github.com/Reon90/redcube) - GLTF implementation based on WebGPU backend
+- [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - micro WebGPU rendering & compute library
 
 ## Gists
 
@@ -136,6 +137,7 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WGSL-Toy](https://valeerajs.github.io/WGSL-Toy/build/) - by [@HypnosNova](https://github.com/HypnosNova) - [repository](https://github.com/ValeeraJS/WGSL-Toy)
 - [WebGPU Compute 101 Demo](https://hello-webgpu-compute.glitch.me) - [source code](https://glitch.com/edit/#!/hello-webgpu-compute)
 - [WebGPU: Rendering, compute, GPU experiments](https://oktomus.com/web-experiments/) - by [Kevin Masson](https://github.com/oktomus) - [repository](https://github.com/oktomus/web-experiments)
+- [WebGPU Sketch Dojo](https://gnikoloff.github.io/webgpu-dojo/) - by [Georgi Nikolov](https://github.com/gnikoloff) - [repository](https://github.com/gnikoloff/webgpu-dojo)
 
 ## Videos
 
