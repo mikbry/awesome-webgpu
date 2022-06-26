@@ -138,6 +138,8 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU Compute 101 Demo](https://hello-webgpu-compute.glitch.me) - [source code](https://glitch.com/edit/#!/hello-webgpu-compute)
 - [WebGPU: Rendering, compute, GPU experiments](https://oktomus.com/web-experiments/) - by [Kevin Masson](https://github.com/oktomus) - [repository](https://github.com/oktomus/web-experiments)
 - [WebGPU Sketch Dojo](https://gnikoloff.github.io/webgpu-dojo/) - by [Georgi Nikolov](https://github.com/gnikoloff) - [repository](https://github.com/gnikoloff/webgpu-dojo)
+- [WebGPU Compute Metaballs](https://gnikoloff.github.io/webgpu-compute-metaballs/) - by [Georgi Nikolov](https://github.com/gnikoloff) - [repository](https://github.com/gnikoloff/webgpu-compute-metaballs)
+
 
 ## Videos
 
