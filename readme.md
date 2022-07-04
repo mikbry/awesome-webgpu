@@ -100,6 +100,7 @@
 - [Deno roadmap](https://twitter.com/trivikram/status/1275469111674322945) - GPU APIs (WebGPU) to support ML apps
 - [RedCube](https://github.com/Reon90/redcube) - GLTF implementation based on WebGPU backend
 - [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - micro WebGPU rendering & compute library
+- [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - A WebGPU Shading Language parser and reflection library for Javascript.
 
 ## Gists
 
