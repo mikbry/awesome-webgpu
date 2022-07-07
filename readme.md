@@ -79,6 +79,7 @@
 - [Real-Time Ray-Tracing in WebGPU](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/) - by [Felix Maier](https://github.com/maierfelix)
 - [Build a compute rasterizer in WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md) - by [Omar Shehata](https://github.com/OmarShehata)
 - [[Not finished] WebGPU training](https://github.com/drawmindmap/webgpu-training) - by [@DrawMindmap](https://github.com/drawmindmap)
+- [WebGPU Engine Development (Chinese/English)](https://arche.graphics/docs/intro): Development process of WebGPU Engine(C++ and TypeScript)
 
 ## Books
 
@@ -100,6 +101,7 @@
 - [Deno roadmap](https://twitter.com/trivikram/status/1275469111674322945) - GPU APIs (WebGPU) to support ML apps
 - [RedCube](https://github.com/Reon90/redcube) - GLTF implementation based on WebGPU backend
 - [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - micro WebGPU rendering & compute library
+- [Arche Graphics](https://github.com/ArcheGraphics) - WebGPU Grpahics Engine
 
 ## Gists
 
