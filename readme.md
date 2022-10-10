@@ -65,6 +65,7 @@
 - [Compiling Machine Learning to WASM and WebGPU with Apache TVM](https://tvm.apache.org/2020/05/14/compiling-machine-learning-to-webassembly-and-webgpu) - tvm.apache.org (by [Tianqi Chen](https://github.com/tqchen) & [Jared Roesch](https://github.com/jroesch))
 - [The WebAssembly App Gap](https://paulbutler.org/2020/the-webassembly-app-gap/) - by [Paul Butler](https://github.com/paulgb)
 - [Next-generation 3D Graphics on the web](https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/) - webkit.org (by [Dean Jackson](https://twitter.com/grorgwork))
+- [Efficently rendering glTF models - A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/) - by [Brandon Jones](https://github.com/toji)
 
 ## Tutorials
 
@@ -143,6 +144,7 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU Sketch Dojo](https://gnikoloff.github.io/webgpu-dojo/) - by [Georgi Nikolov](https://github.com/gnikoloff) - [repository](https://github.com/gnikoloff/webgpu-dojo)
 - [WebGPU Compute Metaballs](https://gnikoloff.github.io/webgpu-compute-metaballs/) - by [Georgi Nikolov](https://github.com/gnikoloff) - [repository](https://github.com/gnikoloff/webgpu-compute-metaballs)
 - [WebGPU 2D Fluid Simulation](https://github.com/indiana-dev/WebGPU-Fluid-Simulation) - by [indiana-dev](https://github.com/indiana-dev) - [repository](https://github.com/indiana-dev/WebGPU-Fluid-Simulation)
+- [WebGPU-Lab](https://s-macke.github.io/WebGPU-Lab/) - by [Sebastian Macke](https://github.com/s-macke) - [repository](https://github.com/s-macke/WebGPU-Lab)
 
 ## Videos
 
