@@ -81,6 +81,7 @@
 - [Build a compute rasterizer in WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md) - by [Omar Shehata](https://github.com/OmarShehata)
 - [[Not finished] WebGPU training](https://github.com/drawmindmap/webgpu-training) - by [@DrawMindmap](https://github.com/drawmindmap)
 - [WebGPU Engine Development (Chinese/English)](https://arche.graphics/docs/intro): Development process of WebGPU Engine(C++ and TypeScript)
+- [Learn WebGPU for native C++ development](https://eliemichel.github.io/LearnWebGPU) - by [@eliemichel](https://github.com/eliemichel)
 
 ## Books
 
@@ -103,7 +104,8 @@
 - [RedCube](https://github.com/Reon90/redcube) - GLTF implementation based on WebGPU backend
 - [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - micro WebGPU rendering & compute library
 - [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - A WebGPU Shading Language parser and reflection library for Javascript.
-- [Arche Graphics](https://github.com/ArcheGraphics) - WebGPU Grpahics Engine
+- [Arche Graphics](https://github.com/ArcheGraphics) - WebGPU Graphics Engine
+- [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper - by [@eliemichel](https://github.com/eliemichel)
 
 ## Gists
 
