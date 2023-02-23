@@ -147,6 +147,7 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU Compute Metaballs](https://gnikoloff.github.io/webgpu-compute-metaballs/) - by [Georgi Nikolov](https://github.com/gnikoloff) - [repository](https://github.com/gnikoloff/webgpu-compute-metaballs)
 - [WebGPU 2D Fluid Simulation](https://github.com/indiana-dev/WebGPU-Fluid-Simulation) - by [indiana-dev](https://github.com/indiana-dev) - [repository](https://github.com/indiana-dev/WebGPU-Fluid-Simulation)
 - [WebGPU-Lab](https://s-macke.github.io/WebGPU-Lab/) - by [Sebastian Macke](https://github.com/s-macke) - [repository](https://github.com/s-macke/WebGPU-Lab)
+- [WebGPU Live Demo Editor](https://www.wgsl.dev/editor) - by [Hepp Maccoy](https://github.com/hepp) - [repository](https://github.com/hepp/webgpu-examples)
 
 ## Videos
 
