@@ -106,6 +106,7 @@
 - [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - A WebGPU Shading Language parser and reflection library for Javascript.
 - [Arche Graphics](https://github.com/ArcheGraphics) - WebGPU Graphics Engine
 - [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper - by [@eliemichel](https://github.com/eliemichel)
+- [Use.GPU](https://usegpu.live) - Reactive/declarative WebGPU runtime
 
 ## Gists
 
