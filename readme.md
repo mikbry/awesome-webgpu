@@ -73,8 +73,8 @@
 - [Basic WebGPU Rendering](https://dev.to/ndesmic/basic-webgpu-rendering-2kob) - by [@ndesmic](https://github.com/ndesmic)
 - [Get started with GPU Compute on the Web](https://web.dev/gpu-compute/) - web.dev (by [François Beaufort](https://github.com/beaufortfrancois))
 - [WebGPU for Metal Developers Part 1](https://metalbyexample.com/webgpu-part-one/) ([Part 2](https://metalbyexample.com/webgpu-part-two/)) - by [Warren Moore](https://twitter.com/warrenm)
-- [From 0 to glTF with WebGPU: The First Triangle](https://www.willusher.io/graphics/2021/08/29/0-to-gltf-triangle) (updated version of [this](https://www.willusher.io/graphics/2020/06/15/0-to-gltf-triangle))  - by [Will Usher](https://github.com/Twinklebear)
-- [From 0 to glTF with WebGPU: Bind Groups](https://www.willusher.io/graphics/2021/08/30/0-to-gltf-bind-groups) (updated version of [this](https://www.willusher.io/graphics/2020/06/20/0-to-gltf-bind-groups))  - by [Will Usher](https://github.com/Twinklebear)
+- [From 0 to glTF with WebGPU: The First Triangle](https://www.willusher.io/graphics/2021/08/29/0-to-gltf-triangle) (updated version of [this](https://www.willusher.io/graphics/2020/06/15/0-to-gltf-triangle)) - by [Will Usher](https://github.com/Twinklebear)
+- [From 0 to glTF with WebGPU: Bind Groups](https://www.willusher.io/graphics/2021/08/30/0-to-gltf-bind-groups) (updated version of [this](https://www.willusher.io/graphics/2020/06/20/0-to-gltf-bind-groups)) - by [Will Usher](https://github.com/Twinklebear)
 - [Learn Wpgpu](https://sotrh.github.io/learn-wgpu/): Examples and Showcase Rust & Wgpu - by [@sotrh](https://github.com/sotrh)
 - [LearningWebGPU 教程 (Chinese)](https://github.com/hjlld/LearningWebGPU) - by [@hjlld](https://github.com/hjlld)
 - [Real-Time Ray-Tracing in WebGPU](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/) - by [Felix Maier](https://github.com/maierfelix)
@@ -95,7 +95,7 @@
 - [Gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Mozilla implementation
 - [Webcore module WebGPU](https://trac.webkit.org/browser/webkit/trunk/Source/WebCore/Modules/webgpu) - Webkit / Safari
 - [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - WebGPU/Dawn experimental
-- [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) -  C/C++ headers
+- [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers
 - [sokol](https://github.com/floooh/sokol/issues/278) - WebGPU Backend TODO
 - [WebGPU for Node](https://github.com/maierfelix/webgpu) - Based on Dawn
 - [RedGPU](https://github.com/redcamel/RedGPU) - By @redcamel
@@ -107,6 +107,7 @@
 - [Arche Graphics](https://github.com/ArcheGraphics) - WebGPU Graphics Engine
 - [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper - by [@eliemichel](https://github.com/eliemichel)
 - [Use.GPU](https://usegpu.live) - Reactive/declarative WebGPU runtime
+- [GEngine](https://github.com/hpugis/GEngine) -A basic rendering engine based on WebGPU -by junwei.gu
 
 ## Gists
 
