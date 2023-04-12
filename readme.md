@@ -110,6 +110,7 @@
 - [Use.GPU](https://usegpu.live) - Reactive/declarative WebGPU runtime
 - [GEngine](https://github.com/hpugis/GEngine) -A basic rendering engine based on WebGPU -by junwei.gu
 - [Thimbleberry](https://github.com/mighdoll/thimbleberry) - Reusuable WebGPU shaders and support functions
+- [WebRTX](https://github.com/codedhead/webrtx) - WebGPU Ray Tracing Extension
 
 ## Gists
 
@@ -153,6 +154,7 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU-Lab](https://s-macke.github.io/WebGPU-Lab/) - by [Sebastian Macke](https://github.com/s-macke) - [repository](https://github.com/s-macke/WebGPU-Lab)
 - [WebGPU Live Demo Editor](https://www.wgsl.dev/editor) - by [Hepp Maccoy](https://github.com/hepp) - [repository](https://github.com/hepp/webgpu-examples)
 - [Thimbleberry Image Transform Demo](https://thimbleberry.dev) - by [mighdoll](https://vis.social/@mighdoll) - [repository](https://github.com/mighdoll/thimbleberry/tree/main/image-demo)
+- [Shadowray Playground](https://shadowray.gl) - by [codedhead](https://github.com/codedhead)
 
 ## Videos
 
