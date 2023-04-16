@@ -67,6 +67,7 @@
 - [Next-generation 3D Graphics on the web](https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/) - webkit.org (by [Dean Jackson](https://twitter.com/grorgwork))
 - [Efficently rendering glTF models - A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/) - by [Brandon Jones](https://github.com/toji)
 - [WebGPU - All of the cores, none of the canvas](https://surma.dev/things/webgpu/index.html) - by [Surma](https://github.com/surma)
+- [WebGPU Fundamentals](https://webgpufundamentals.org/) - A set of articles to help learn WebGPU
 
 ## Tutorials
 
