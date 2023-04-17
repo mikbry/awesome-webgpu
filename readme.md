@@ -155,6 +155,7 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU Live Demo Editor](https://www.wgsl.dev/editor) - by [Hepp Maccoy](https://github.com/hepp) - [repository](https://github.com/hepp/webgpu-examples)
 - [Thimbleberry Image Transform Demo](https://thimbleberry.dev) - by [mighdoll](https://vis.social/@mighdoll) - [repository](https://github.com/mighdoll/thimbleberry/tree/main/image-demo)
 - [Shadowray Playground](https://shadowray.gl) - by [codedhead](https://github.com/codedhead)
+- [Web Stable Diffusion](https://mlc.ai/web-stable-diffusion/#text-to-image-generation-demo) - by [CMU, OctoML, Catalyst et al.](https://github.com/mlc-ai) - [repository](https://github.com/mlc-ai/web-stable-diffusion)
 - [WebLLM](https://mlc.ai/web-llm/) - by [CMU, University of Washington, OctoML, et al.](https://github.com/mlc-ai) - [repository](https://github.com/mlc-ai/web-llm)
 
 ## Videos
