@@ -68,6 +68,7 @@
 - [Efficently rendering glTF models - A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/) - by [Brandon Jones](https://github.com/toji)
 - [WebGPU - All of the cores, none of the canvas](https://surma.dev/things/webgpu/index.html) - by [Surma](https://github.com/surma)
 - [WebGPU Fundamentals](https://webgpufundamentals.org/) - A set of articles to help learn WebGPU
+- [PBR in WebGPU: implementation details](https://tchayen.com/pbr-in-webgpu-implementation-details) - by [Tomasz Czajecki](https://github.com/tchayen)
 
 ## Tutorials
 
