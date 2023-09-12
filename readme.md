@@ -69,7 +69,7 @@
 - [WebGPU - All of the cores, none of the canvas](https://surma.dev/things/webgpu/index.html) - by [Surma](https://github.com/surma)
 - [WebGPU Fundamentals](https://webgpufundamentals.org/) - A set of articles to help learn WebGPU
 - [PBR in WebGPU: implementation details](https://tchayen.com/pbr-in-webgpu-implementation-details) - by [Tomasz Czajecki](https://github.com/tchayen)
-
+- [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) - by [Andi](https://mastodon.social/@mcc)
 ## Tutorials
 
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu) - by [Alain Galvan](https://github.com/alaingalvan)
@@ -169,7 +169,8 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU (playlist)](https://www.youtube.com/playlist?list=PLMinhigDWz6f5Nm_GYGREYnaf9mzoNdjX) - by [SketchpunkLabs](https://www.youtube.com/c/SketchpunkLabs)
 - [WebGPU (playlist)](https://www.youtube.com/playlist?list=PLnTPVrg9-a1Ou2KXUniDr1HC7qgL2JD2x) - by [Genka](https://www.youtube.com/channel/UCBTwKzJg-BR56tKWO5CT7XA)
 - [WebGPU Graphics Programming Step-by-Step (playlist)](https://www.youtube.com/playlist?list=PL_UrKDEhALdKh0118flOjuAnVIGKFUJXN) - by [Practical Programming with Dr. Xu](https://www.youtube.com/channel/UCg14XfqXim0vpgabU3T7tRg)
-
+- [Introducing WebGPU: Unlocking modern GPU access for JavaScript](https://www.youtube.com/watch?v=m6T-Mq1BPXg) - by Google
+- [A proper look at WebGPU for native games](https://www.youtube.com/watch?v=DdMl4E7xQEY) - by [Madrigal](https://www.madrigalgames.com/)
 ## Presentations
 
 - [Tint](https://docs.google.com/presentation/d/1qHhFq0GJtY_59rNjpiHU--JW4bW4Ji3zWei-gM6cabs) - Proposal for textual shader language by Google
