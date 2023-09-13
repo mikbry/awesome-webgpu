@@ -32,7 +32,7 @@
 - [API quick reference and documentation](https://webgpu.rocks/) - WebGPU.rocks
 - [107 WebGPU Projects on GitHub](https://awesomeopensource.com/projects/webgpu) - AwesomeOpenSource.com
 - [r/WebGPU - Reddit](https://www.reddit.com/r/webgpu/) - WebGPU Subreddit
-- [webgpu.toys](https://webgpu.toys/) - Compute shader playground (like shadertoy)
+- [compute.toys](https://compute.toys/) - Compute shader playground (like shadertoy)
 
 ## Browser support
 
