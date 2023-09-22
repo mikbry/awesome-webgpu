@@ -32,6 +32,7 @@
 - [API quick reference and documentation](https://webgpu.rocks/) - WebGPU.rocks
 - [107 WebGPU Projects on GitHub](https://awesomeopensource.com/projects/webgpu) - AwesomeOpenSource.com
 - [r/WebGPU - Reddit](https://www.reddit.com/r/webgpu/) - WebGPU Subreddit
+- [compute.toys](https://compute.toys/) - Compute shader playground (like shadertoy)
 
 ## Browser support
 
@@ -131,7 +132,6 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU Metaballs](https://toji.github.io/webgpu-metaballs/) - by [Brandon Jones](https://github.com/toji) - [repository](https://github.com/toji/webgpu-metaballs)
 - [WebGPU External Texture Test](https://toji.github.io/webgpu-external-test/) - by [Brandon Jones](https://github.com/toji) - [repository](https://github.com/toji/webgpu-external-test)
 - [Online WGSK Editor](https://takahirox.github.io/online-wgsl-editor/) - by [Takahiro](https://github.com/takahirox) - [repository](https://github.com/takahirox/online-wgsl-editor)
-- [Safari WebKit demos](https://webkit.org/demos/webgpu/)
 - [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - by [Three.js](https://threejs.org) - [repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html)
 - [Spookyball: a WebGPU-powered, Halloween-themed game](https://spookyball.com) - by [Brandon Jones](https://github.com/toji) - [repository](https://github.com/toji/spookyball)
 - [Babylon.js Playground](https://playground.babylonjs.com/) - by [Babylon.js](https://www.babylonjs.com) (Note: Select `WebGPU` in the top right corner) - [repository](https://github.com/BabylonJS/Babylon.js/tree/master/Playground)
