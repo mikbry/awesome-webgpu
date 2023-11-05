@@ -33,6 +33,7 @@
 - [107 WebGPU Projects on GitHub](https://awesomeopensource.com/projects/webgpu) - AwesomeOpenSource.com
 - [r/WebGPU - Reddit](https://www.reddit.com/r/webgpu/) - WebGPU Subreddit
 - [compute.toys](https://compute.toys/) - Compute shader playground (like shadertoy)
+- [Shadeup](https://shadeup.dev/) - Language/website that makes experimenting with WebGPU easier
 
 ## Browser support
 
