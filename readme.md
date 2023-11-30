@@ -73,6 +73,9 @@
 - [PBR in WebGPU: implementation details](https://tchayen.com/pbr-in-webgpu-implementation-details) - by [Tomasz Czajecki](https://github.com/tchayen)
 - [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) - by [Andi](https://mastodon.social/@mcc)
 - [From WebGL to WebGPU](https://developer.chrome.com/blog/from-webgl-to-webgpu/) - by Google
+- [WebGPU for Dummies](https://amirsojoodi.github.io/posts/WebGPU-for-Dummies/) - by [Amir Sojoodi](https://github.com/amirsojoodi)
+- [WebGPU Timestamps](https://amirsojoodi.github.io/posts/WebGPU-Timestamp/) - by [Amir Sojoodi](https://github.com/amirsojoodi)
+
 ## Tutorials
 
 - [Raw WebGPU](https://alain.xyz/blog/raw-webgpu) - by [Alain Galvan](https://github.com/alaingalvan)
