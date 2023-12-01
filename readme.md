@@ -121,6 +121,14 @@
 - [WebRTX](https://github.com/codedhead/webrtx) - WebGPU Ray Tracing Extension
 - [Haiku](https://github.com/jay19240/Haiku) - 2D & 3D WebGPU Game Engine written in TypeScript
 
+## Debuggers and Profilers
+
+- [webgpu-devtools](https://github.com/takahirox/webgpu-devtools) - Web browser extention
+- [webgpu-recorder](https://github.com/brendan-duncan/webgpu_recorder) - A WebGPU playback recorder
+- [webgpu-profiler](https://crates.io/crates/wgpu-profiler) - A profiler for Rust + WebGPU
+- [webgpu-debugger](https://github.com/webgpu/webgpu-debugger) - early stage debugger
+- [thimbleberry](https://github.com/mighdoll/thimbleberry) - WebGPU utilities
+
 ## Gists
 
 - [3D SDF Primitives](https://gist.github.com/munrocket/f247155fc22ecb8edf974d905c677de1) - in WGSL by @munrocket
