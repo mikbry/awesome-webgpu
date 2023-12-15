@@ -175,6 +175,7 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebLLM](https://mlc.ai/web-llm/) - by [CMU, University of Washington, OctoML, et al.](https://github.com/mlc-ai) - [repository](https://github.com/mlc-ai/web-llm)
 - [Shader Graph WGSL](https://deepkolos.github.io/shader-graph-wgsl/) - by [deepkolos](https://github.com/deepkolos) - [repository](https://github.com/deepkolos/shader-graph-wgsl)
 - [WebGPU Memory Model Testing](https://gpuharbor.ucsc.edu/webgpu-mem-testing/) - by [Reese Levine](https://github.com/reeselevine) et al., UC Santa Cruz - [repository](https://github.com/reeselevine/webgpu-litmus)
+- [Marching Cubes WebGPU](https://conorpo.github.io/marching-cubes-webgpu/) - by [Conor O'Malley](https://github.com/conorpo/marching-cubes-webgpu) - [repository](https://github.com/conorpo/marching-cubes-webgpu)
 
 ## Videos
 
