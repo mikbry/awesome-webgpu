@@ -176,6 +176,7 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [Shader Graph WGSL](https://deepkolos.github.io/shader-graph-wgsl/) - by [deepkolos](https://github.com/deepkolos) - [repository](https://github.com/deepkolos/shader-graph-wgsl)
 - [WebGPU Memory Model Testing](https://gpuharbor.ucsc.edu/webgpu-mem-testing/) - by [Reese Levine](https://github.com/reeselevine) et al., UC Santa Cruz - [repository](https://github.com/reeselevine/webgpu-litmus)
 - [Marching Cubes WebGPU](https://conorpo.github.io/marching-cubes-webgpu/) - by [Conor O'Malley](https://github.com/conorpo) - [repository](https://github.com/conorpo/marching-cubes-webgpu)
+- [WebGPU Path Tracing](https://iamferm.in/webgpu-path-tracing/) - by [Fermin Lozano](https://github.com/ferminLR) - [repository](https://github.com/ferminLR/webgpu-path-tracing)
 
 ## Videos
 
