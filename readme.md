@@ -119,7 +119,7 @@
 - [GEngine](https://github.com/hpugis/GEngine) -A basic rendering engine based on WebGPU -by junwei.gu
 - [Thimbleberry](https://github.com/mighdoll/thimbleberry) - Reusuable WebGPU shaders and support functions
 - [WebRTX](https://github.com/codedhead/webrtx) - WebGPU Ray Tracing Extension
-- [Haiku](https://github.com/jay19240/Haiku) - 2D & 3D WebGPU Game Engine written in TypeScript
+- [SWGPU](https://github.com/jay19240/SWGPU) - A Simple WebGPU Game Engine
 
 ## Debuggers and Profilers
 
