@@ -20,7 +20,6 @@
 - [Presentations](#presentations)
 - [Community](#community)
 - [Bug reporting](#bug-reporting)
-- [Contribute](#contribute)
 - [License](#license)
 
 ## Websites
