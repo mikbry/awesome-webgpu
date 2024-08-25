@@ -1,5 +1,7 @@
 # Awesome WebGPU [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" align="right" height="150">](https://www.w3.org/TR/webgpu/)
+
 > Lovely curated list of WebGPU resources, libraries and tools.
 
 [WebGPU](https://en.wikipedia.org/wiki/WebGPU) is a work in progress [Web standard from W3C](https://www.w3.org/TR/webgpu/) for modern 3D and GPU computing. Its purpose is to get the best performances on recent GPUs from desktop to mobile. Unlike WebGL, WebGPU is not a port of an existing native API. It borrows concepts from Metal, Vulkan and Direct3D12.
