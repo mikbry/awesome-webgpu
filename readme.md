@@ -42,9 +42,12 @@
 
 ### Try out WebGPU
 
-- Chromium ([Chrome Canary](https://www.google.com/chrome/canary/), [Edge Canary](https://www.microsoftedgeinsider.com/download/canary)) - Go to `about:flags#enable-unsafe-webgpu` and enable the "Unsafe WebGPU" flag.
+- [Chrome](https://www.google.com/chrome/) - WebGPU supported by default in Windows and macOS
+- Chrome for Android - WebGPU supported by default
+- [Edge](https://www.microsoft.com/edge/) - WebGPU supported by default
 - [Firefox Nightly](https://nightly.mozilla.org/) - Go to `about:config` and set `dom.webgpu.enabled` to true.
-- [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/) - Enable the Develop menu by going to `Safari` &rightarrow; `Preferences` &rightarrow; `Advanced` &rightarrow; `Show Develop menu in menu bar`. Then go to the `Develop` menu and enable `Experimental Features` &rightarrow; `WebGPU`.
+- [Safari](https://apple.com/safari/) - Enable the Develop menu by going to `Safari` &rightarrow; `Settings` &rightarrow; `Advanced` &rightarrow; `Show features for web developers`. Then in the `Develop` menu or in `Settings`, you can enable WebGPU in `Feature Flags` &rightarrow; `WebGPU`.
+- iOS Safari - You can enable WebGPU in `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
 
 ## Articles
 
