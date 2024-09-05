@@ -24,7 +24,6 @@
 
 ## Websites
 
-- [GPU for the Web Community Group](https://webgpu.io) - Official website.
 - [GPUWeb](https://github.com/gpuweb/gpuweb) - Official GitHub repository.
 - [WebGPU - Twitter](https://x.com/webgpu) - Official X/Twitter account.
 - Official WebGPU Specifications: [History](https://www.w3.org/standards/history/webgpu/) / [Editor's Draft](https://gpuweb.github.io/gpuweb/)
@@ -39,12 +38,7 @@
 ## Browser support
 
 - [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - Official W3C Group.
-- [Register for Google Chrome origin trial](https://developer.chrome.com/origintrials/#/view_trial/118219490218475521) - Chrome Developers.
 - [WebGPU browser support overview](https://caniuse.com/webgpu) - CanIUse.com WebGPU.
-- [Chrome Platform Status](https://www.chromestatus.com/feature/6213121689518080) - Chrome Developers.
-- [WebGPU and WSL in Safari](https://webkit.org/blog/9528/webgpu-and-wsl-in-safari/) - WebKit.
-- [WebGPU on iOS](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - Don't work on my iPhone6+.
-- [Servo MVP](https://github.com/servo/servo/projects/24) - WebGPU MVP.
 
 ### Try out WebGPU
 
