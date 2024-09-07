@@ -135,7 +135,7 @@
 
 Demos might work only on Chrome. Firefox implementation is not complete.
 
-- [WebGPU Samples](https://austineng.github.io/webgpu-samples/) - By [Austin Eng](https://github.com/austinEng) (Google) - [repository](https://github.com/austinEng/webgpu-samples)
+- [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - [repository](https://github.com/webgpu/webgpu-samples)
 - [WebGPUniverse](https://webgpuniverse.netlify.app) - By students from Imperial College London.
 - [WebGPU first-person exploration of the Sponza Palace](https://toji.github.io/webgpu-test/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-test)
 - [WebGPU Clustered Shading](https://toji.github.io/webgpu-clustered-shading/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-clustered-shading)
@@ -144,15 +144,15 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [Online WGSK Editor](https://takahirox.github.io/online-wgsl-editor/) - by Takahiro - [repository](https://github.com/takahirox/online-wgsl-editor)
 - [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - by [Three.js](https://threejs.org) - [repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html)
 - [Spookyball: a WebGPU-powered, Halloween-themed game](https://spookyball.com) - by Brandon Jones - [repository](https://github.com/toji/spookyball)
-- [Babylon.js Playground](https://playground.babylonjs.com/) - by Babylon.js (Note: Select `WebGPU` in the top right corner) - [repository](https://github.com/BabylonJS/Babylon.js/tree/master/Playground)
+- [Babylon.js Playground](https://playground.babylonjs.com/) - by Babylon.js (Note: Select `WebGPU` in the top right corner) - [repository](https://github.com/BabylonJS/Babylon.js/tree/master)
 - [Calculate and render particles with WebGPU](https://hsimpson.github.io/webgpu-particles/) - by [Daniel Toplak](https://github.com/hsimpson) - [repository](https://github.com/hsimpson/webgpu-particles)
 - [An online WebGPU calculator](https://laskin.live) - Using WebGPU on remote browser (via WebRTC) - [repository](https://github.com/periferia-labs/laskin.live)
 - [WebGPU study](https://redcamel.github.io/webgpu/) - By [Redcamel](https://github.com/redcamel) - [repository](https://github.com/redcamel/webgpu)
 - [Small examples of SPIR-V compatible WebGPU usage](https://tsherif.github.io/webgpu-examples/) - by [Tarek Sherif](https://github.com/tsherif) - [repository](https://github.com/tsherif/webgpu-examples)
-- [WebGPU examples](https://wgpu.rs/examples-gpu/) - by [wgpu.rs](https://wgpu.rs) - [repository](https://github.com/gfx-rs/wgpu/tree/master/wgpu/examples)
+- [WebGPU examples](https://wgpu.rs/examples/) - by [wgpu.rs](https://wgpu.rs) - [repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples)
 - [Three.js WebGPURenderer](https://takahirox.github.io/THREE.WebGPURenderer/examples/) - By Takahiro.
 - [WebGPU point cloud](https://m-schuetz.github.io/webgpu_pointcloud/) - by [Markus Schütz](https://github.com/m-schuetz)
-- [Forest WebGPU](https://www.babylonjs.com/demos/webgpu/forestwebgpu) - by [Babylon.js](https://www.babylonjs.com)
+- [Forest WebGPU](https://www.babylonjs.com/Demos/WebGPU/forestWebGPU.html) - by [Babylon.js](https://www.babylonjs.com)
 - [WebGPU-Playground](https://06wj.github.io/WebGPU-Playground/) - by [@06wj](https://github.com/06wj) - [repository](https://github.com/06wj/WebGPU-Playground)
 - [node-webgpu examples](https://github.com/maierfelix/webgpu-examples) - By Felix Maier.
 - [Dawn RT (Ray tracing extension for Dawn/WebGPU)](https://github.com/maierfelix/dawn-ray-tracing) - By Felix Maier.
@@ -163,7 +163,7 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU: Rendering, compute, GPU experiments](https://oktomus.com/web-experiments/) - by [Kevin Masson](https://github.com/oktomus) - [repository](https://github.com/oktomus/web-experiments)
 - [WebGPU Sketch Dojo](https://gnikoloff.github.io/webgpu-dojo/) - by Georgi Nikolov - [repository](https://github.com/gnikoloff/webgpu-dojo)
 - [WebGPU Compute Metaballs](https://gnikoloff.github.io/webgpu-compute-metaballs/) - By Georgi Nikolov - [repository](https://github.com/gnikoloff/webgpu-compute-metaballs)
-- [WebGPU 2D Fluid Simulation](https://github.com/indiana-dev/WebGPU-Fluid-Simulation) - By indiana-dev.
+- [WebGPU 2D Fluid Simulation](https://kishimisu.github.io/WebGPU-Fluid-Simulation/) - By kishimisu - [repository](https://github.com/kishimisu/WebGPU-Fluid-Simulation).
 - [WebGPU-Lab](https://s-macke.github.io/WebGPU-Lab/) - By [Sebastian Macke](https://github.com/s-macke) - [repository](https://github.com/s-macke/WebGPU-Lab)
 - [WebGPU Live Demo Editor](https://www.wgsl.dev/editor) - By [Hepp Maccoy](https://github.com/hepp) - [repository](https://github.com/hepp/webgpu-examples)
 - [Thimbleberry Image Transform Demo](https://thimbleberry.dev) - By [mighdoll](https://vis.social/@mighdoll) - [repository](https://github.com/mighdoll/thimbleberry/tree/main/image-demo)
