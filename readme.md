@@ -52,7 +52,6 @@
 ## Articles
 
 - [WebGPU - Wikipedia](https://en.wikipedia.org/wiki/WebGPU)
-- [Access modern GPU features with WebGPU](https://web.dev/gpu/) - Web.dev article - by François Beaufort & Corentin Wallez.
 - [A Taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/) - Mozilla.org article  - by Dzmitry Malyshau.
 - [Point of WebGPU native](https://kvark.github.io/web/gpu/native/2020/05/03/point-of-webgpu-native) - By Dzmitry Malyshau.
 - [Graphics on the web and beyond with WebGPU](https://dmnsgn.medium.com/13c4ba049039) - medium.com - by [Damien Seguin](https://dmnsgn.medium.com/))
@@ -99,8 +98,6 @@
 - [Three.js](https://threejs.org/) - Easy-to-use, lightweight, general-purpose 3D library.
 - [Dawn](https://dawn.googlesource.com/dawn) - Google implementation.
 - [Gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Mozilla implementation.
-- [Webcore module WebGPU](https://trac.webkit.org/browser/webkit/trunk/Source/WebCore/Modules/webgpu) - Webkit / Safari.
-- [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - WebGPU/Dawn experimental.
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
 - [sokol](https://github.com/floooh/sokol/) - Simple STB-style cross-platform libraries for C and C++.
 - [WebGPU for Node](https://github.com/maierfelix/webgpu) - Based on Dawn.
@@ -149,8 +146,6 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU study](https://redcamel.github.io/webgpu/) - By [Redcamel](https://github.com/redcamel) - [repository](https://github.com/redcamel/webgpu)
 - [Small examples of SPIR-V compatible WebGPU usage](https://tsherif.github.io/webgpu-examples/) - by [Tarek Sherif](https://github.com/tsherif) - [repository](https://github.com/tsherif/webgpu-examples)
 - [WebGPU examples](https://wgpu.rs/examples/) - by [wgpu.rs](https://wgpu.rs) - [repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples)
-- [Three.js WebGPURenderer](https://takahirox.github.io/THREE.WebGPURenderer/examples/) - By Takahiro.
-- [WebGPU point cloud](https://m-schuetz.github.io/webgpu_pointcloud/) - by [Markus Schütz](https://github.com/m-schuetz)
 - [Forest WebGPU](https://www.babylonjs.com/Demos/WebGPU/forestWebGPU.html) - by [Babylon.js](https://www.babylonjs.com)
 - [WebGPU-Playground](https://06wj.github.io/WebGPU-Playground/) - by [@06wj](https://github.com/06wj) - [repository](https://github.com/06wj/WebGPU-Playground)
 - [node-webgpu examples](https://github.com/maierfelix/webgpu-examples) - By Felix Maier.
