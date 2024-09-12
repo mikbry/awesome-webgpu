@@ -80,8 +80,7 @@
 - [Basic WebGPU Rendering](https://dev.to/ndesmic/basic-webgpu-rendering-2kob) - by [@ndesmic](https://github.com/ndesmic)
 - [Get started with GPU Compute on the Web](https://web.dev/gpu-compute/) - web.dev (by [François Beaufort](https://github.com/beaufortfrancois))
 - [WebGPU for Metal Developers Part 1](https://metalbyexample.com/webgpu-part-one/) - [Part 2](https://metalbyexample.com/webgpu-part-two/) - by [Warren Moore](https://twitter.com/warrenm)
-- [From 0 to glTF with WebGPU: The First Triangle](https://www.willusher.io/graphics/2021/08/29/0-to-gltf-triangle) - Updated version of [this](https://www.willusher.io/graphics/2020/06/15/0-to-gltf-triangle) - by Will Usher.
-- [From 0 to glTF with WebGPU: Bind Groups](https://www.willusher.io/graphics/2021/08/30/0-to-gltf-bind-groups) - Updated version of [this](https://www.willusher.io/graphics/2020/06/20/0-to-gltf-bind-groups) - by Will Usher.
+- [From 0 to glTF with WebGPU: Series](https://www.willusher.io/graphics/2023/04/10/0-to-gltf-triangle/) - [repository](https://github.com/Twinklebear/webgpu-0-to-gltf?tab=readme-ov-file) - by Will Usher.
 - [Learn Wpgpu](https://sotrh.github.io/learn-wgpu/) - Examples and Showcase Rust & Wgpu - by [@sotrh](https://github.com/sotrh)
 - [LearningWebGPU 教程 (Chinese)](https://github.com/hjlld/LearningWebGPU) - by [@hjlld](https://github.com/hjlld)
 - [Real-Time Ray-Tracing in WebGPU](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/) - by [Felix Maier](https://github.com/maierfelix)
