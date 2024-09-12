@@ -55,7 +55,7 @@
 - [WebGPU - Wikipedia](https://en.wikipedia.org/wiki/WebGPU)
 - [A Taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/) - Mozilla.org article  - by Dzmitry Malyshau.
 - [Point of WebGPU native](https://kvark.github.io/web/gpu/native/2020/05/03/point-of-webgpu-native) - By Dzmitry Malyshau.
-- [Graphics on the web and beyond with WebGPU](https://dmnsgn.medium.com/13c4ba049039) - medium.com - by [Damien Seguin](https://dmnsgn.medium.com/))
+- [Graphics on the web and beyond with WebGPU](https://dmnsgn.medium.com/13c4ba049039) - medium.com - by [Damien Seguin](https://dmnsgn.medium.com/)
 - [Implementing WebGPU in Gecko](https://kvark.github.io/web/gpu/gecko/2019/12/10/gecko-webgpu) - By [Dzmitry Malyshau](https://github.com/kvark)
 - [From WebGL to WebGPU in Construct](https://www.construct.net/en/blogs/ashleys-blog-2/webgl-webgpu-construct-1519) - By Ashley Gullen.
 - [A brief history of graphics on the web and WebGPU](https://www.construct.net/en/blogs/ashleys-blog-2/brief-history-graphics-web-1517) - By Ashley Gullen.
