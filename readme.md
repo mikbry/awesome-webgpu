@@ -96,22 +96,22 @@
 
 ## Libraries
 
-- [Babylon.js](https://doc.babylonjs.com/advanced_topics/webGPU) - Experimental support.
-- [Three.js](https://github.com/takahirox/THREE.WebGPURenderer) - Experimental support.
+- [Babylon.js](https://doc.babylonjs.com/setup/support/webGPU) - Open game and rendering engine.
+- [Three.js](https://threejs.org/) - Easy-to-use, lightweight, general-purpose 3D library.
 - [Dawn](https://dawn.googlesource.com/dawn) - Google implementation.
 - [Gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Mozilla implementation.
 - [Webcore module WebGPU](https://trac.webkit.org/browser/webkit/trunk/Source/WebCore/Modules/webgpu) - Webkit / Safari.
 - [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - WebGPU/Dawn experimental.
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
-- [sokol](https://github.com/floooh/sokol/issues/278) - WebGPU Backend TODO.
+- [sokol](https://github.com/floooh/sokol/) - Simple STB-style cross-platform libraries for C and C++.
 - [WebGPU for Node](https://github.com/maierfelix/webgpu) - Based on Dawn.
 - [RedGPU](https://github.com/redcamel/RedGPU) - By @redcamel.
 - [WebGPU .NET](https://github.com/WaveEngine/WebGPU.NET) - .NET binding.
-- [Deno roadmap](https://twitter.com/trivikram/status/1275469111674322945) - GPU APIs (WebGPU) to support ML apps.
+- [Deno](https://deno.com/) - Runtime for JavaScript, TypeScript, and WebAssembly based on the V8 engine.
 - [RedCube](https://github.com/Reon90/redcube) - GLTF implementation based on WebGPU backend.
 - [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - Micro WebGPU rendering & compute library.
 - [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - A WebGPU Shading Language parser and reflection library for JavaScript.
-- [Arche Graphics](https://github.com/ArcheGraphics) - WebGPU Graphics Engine.
+- [Arche Graphics](https://github.com/yangfengzzz/Arche.js) - WebGPU Graphics Engine.
 - [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper - by @eliemichel.
 - [Use.GPU](https://usegpu.live) - Reactive/declarative WebGPU runtime.
 - [GEngine](https://github.com/hpugis/GEngine) - A basic rendering engine based on WebGPU - by junwei.gu.
