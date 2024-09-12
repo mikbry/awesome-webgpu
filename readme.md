@@ -30,6 +30,7 @@
 - Official WGSL (WebGPU Shading Language) Specifications: [Working Draft](https://www.w3.org/TR/WGSL/) / [Editor's Draft](https://gpuweb.github.io/gpuweb/wgsl/)
 - [Official WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 - [API quick reference and documentation](https://webgpu.rocks/) - WebGPU.rocks.
+- [Google Developers Site](https://developer.chrome.com/docs/web-platform/webgpu)
 - [107 WebGPU Projects on GitHub](https://awesomeopensource.com/projects/webgpu) - AwesomeOpenSource.com.
 - [r/WebGPU - Reddit](https://www.reddit.com/r/webgpu/) - WebGPU Subreddit.
 - [compute.toys](https://compute.toys/) - Compute shader playground (like shadertoy).
