@@ -43,9 +43,9 @@
 
 ### Try out WebGPU
 
-- [Chrome](https://www.google.com/chrome/) - WebGPU supported by default in Windows and macOS
-- Chrome for Android - WebGPU supported by default
-- [Edge](https://www.microsoft.com/edge/) - WebGPU supported by default
+- [Chrome](https://www.google.com/chrome/) - WebGPU supported by default in Windows and macOS.
+- Chrome for Android - WebGPU supported by default.
+- [Edge](https://www.microsoft.com/edge/) - WebGPU supported by default.
 - [Firefox Nightly](https://nightly.mozilla.org/) - Go to `about:config` and set `dom.webgpu.enabled` to true.
 - [Safari](https://apple.com/safari/) - Enable the Develop menu by going to `Safari` &rightarrow; `Settings` &rightarrow; `Advanced` &rightarrow; `Show features for web developers`. Then in the `Develop` menu or in `Settings`, you can enable WebGPU in `Feature Flags` &rightarrow; `WebGPU`.
 - iOS Safari - You can enable WebGPU in `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
@@ -139,7 +139,7 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU Metaballs](https://toji.github.io/webgpu-metaballs/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-metaballs)
 - [WebGPU External Texture Test](https://toji.github.io/webgpu-external-test/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-external-test)
 - [Online WGSK Editor](https://takahirox.github.io/online-wgsl-editor/) - by Takahiro - [repository](https://github.com/takahirox/online-wgsl-editor)
-- [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - by [Three.js](https://threejs.org) - [repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html)
+- [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - [repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html)
 - [Spookyball: a WebGPU-powered, Halloween-themed game](https://spookyball.com) - by Brandon Jones - [repository](https://github.com/toji/spookyball)
 - [Babylon.js Playground](https://playground.babylonjs.com/) - by Babylon.js (Note: Select `WebGPU` in the top right corner) - [repository](https://github.com/BabylonJS/Babylon.js/tree/master)
 - [Calculate and render particles with WebGPU](https://hsimpson.github.io/webgpu-particles/) - by [Daniel Toplak](https://github.com/hsimpson) - [repository](https://github.com/hsimpson/webgpu-particles)
