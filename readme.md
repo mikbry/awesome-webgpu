@@ -24,13 +24,13 @@
 
 ## Websites
 
-- [GPU for the Web Community Group](https://webgpu.io) - Official website.
 - [GPUWeb](https://github.com/gpuweb/gpuweb) - Official GitHub repository.
 - [WebGPU - Twitter](https://x.com/webgpu) - Official X/Twitter account.
 - Official WebGPU Specifications: [History](https://www.w3.org/standards/history/webgpu/) / [Editor's Draft](https://gpuweb.github.io/gpuweb/)
 - Official WGSL (WebGPU Shading Language) Specifications: [Working Draft](https://www.w3.org/TR/WGSL/) / [Editor's Draft](https://gpuweb.github.io/gpuweb/wgsl/)
 - [Official WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 - [API quick reference and documentation](https://webgpu.rocks/) - WebGPU.rocks.
+- [Google Developers Site](https://developer.chrome.com/docs/web-platform/webgpu)
 - [107 WebGPU Projects on GitHub](https://awesomeopensource.com/projects/webgpu) - AwesomeOpenSource.com.
 - [r/WebGPU - Reddit](https://www.reddit.com/r/webgpu/) - WebGPU Subreddit.
 - [compute.toys](https://compute.toys/) - Compute shader playground (like shadertoy).
@@ -39,26 +39,23 @@
 ## Browser support
 
 - [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - Official W3C Group.
-- [Register for Google Chrome origin trial](https://developer.chrome.com/origintrials/#/view_trial/118219490218475521) - Chrome Developers.
 - [WebGPU browser support overview](https://caniuse.com/webgpu) - CanIUse.com WebGPU.
-- [Chrome Platform Status](https://www.chromestatus.com/feature/6213121689518080) - Chrome Developers.
-- [WebGPU and WSL in Safari](https://webkit.org/blog/9528/webgpu-and-wsl-in-safari/) - WebKit.
-- [WebGPU on iOS](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - Don't work on my iPhone6+.
-- [Servo MVP](https://github.com/servo/servo/projects/24) - WebGPU MVP.
 
 ### Try out WebGPU
 
-- Chromium ([Chrome Canary](https://www.google.com/chrome/canary/), [Edge Canary](https://www.microsoftedgeinsider.com/download/canary)) - Go to `about:flags#enable-unsafe-webgpu` and enable the "Unsafe WebGPU" flag.
+- [Chrome](https://www.google.com/chrome/) - WebGPU supported by default in Windows and macOS.
+- Chrome for Android - WebGPU supported by default.
+- [Edge](https://www.microsoft.com/edge/) - WebGPU supported by default.
 - [Firefox Nightly](https://nightly.mozilla.org/) - Go to `about:config` and set `dom.webgpu.enabled` to true.
-- [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/) - Enable the Develop menu by going to `Safari` &rightarrow; `Preferences` &rightarrow; `Advanced` &rightarrow; `Show Develop menu in menu bar`. Then go to the `Develop` menu and enable `Experimental Features` &rightarrow; `WebGPU`.
+- [Safari](https://apple.com/safari/) - Enable the Develop menu by going to `Safari` &rightarrow; `Settings` &rightarrow; `Advanced` &rightarrow; `Show features for web developers`. Then in the `Develop` menu or in `Settings`, you can enable WebGPU in `Feature Flags` &rightarrow; `WebGPU`.
+- iOS Safari - You can enable WebGPU in `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
 
 ## Articles
 
 - [WebGPU - Wikipedia](https://en.wikipedia.org/wiki/WebGPU)
-- [Access modern GPU features with WebGPU](https://web.dev/gpu/) - Web.dev article - by François Beaufort & Corentin Wallez.
 - [A Taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/) - Mozilla.org article  - by Dzmitry Malyshau.
 - [Point of WebGPU native](https://kvark.github.io/web/gpu/native/2020/05/03/point-of-webgpu-native) - By Dzmitry Malyshau.
-- [Graphics on the web and beyond with WebGPU](https://dmnsgn.medium.com/13c4ba049039) - medium.com - by [Damien Seguin](https://dmnsgn.medium.com/))
+- [Graphics on the web and beyond with WebGPU](https://dmnsgn.medium.com/13c4ba049039) - medium.com - by [Damien Seguin](https://dmnsgn.medium.com/)
 - [Implementing WebGPU in Gecko](https://kvark.github.io/web/gpu/gecko/2019/12/10/gecko-webgpu) - By [Dzmitry Malyshau](https://github.com/kvark)
 - [From WebGL to WebGPU in Construct](https://www.construct.net/en/blogs/ashleys-blog-2/webgl-webgpu-construct-1519) - By Ashley Gullen.
 - [A brief history of graphics on the web and WebGPU](https://www.construct.net/en/blogs/ashleys-blog-2/brief-history-graphics-web-1517) - By Ashley Gullen.
@@ -83,13 +80,11 @@
 - [Basic WebGPU Rendering](https://dev.to/ndesmic/basic-webgpu-rendering-2kob) - by [@ndesmic](https://github.com/ndesmic)
 - [Get started with GPU Compute on the Web](https://web.dev/gpu-compute/) - web.dev (by [François Beaufort](https://github.com/beaufortfrancois))
 - [WebGPU for Metal Developers Part 1](https://metalbyexample.com/webgpu-part-one/) - [Part 2](https://metalbyexample.com/webgpu-part-two/) - by [Warren Moore](https://twitter.com/warrenm)
-- [From 0 to glTF with WebGPU: The First Triangle](https://www.willusher.io/graphics/2021/08/29/0-to-gltf-triangle) - Updated version of [this](https://www.willusher.io/graphics/2020/06/15/0-to-gltf-triangle) - by Will Usher.
-- [From 0 to glTF with WebGPU: Bind Groups](https://www.willusher.io/graphics/2021/08/30/0-to-gltf-bind-groups) - Updated version of [this](https://www.willusher.io/graphics/2020/06/20/0-to-gltf-bind-groups) - by Will Usher.
+- [From 0 to glTF with WebGPU: Series](https://www.willusher.io/graphics/2023/04/10/0-to-gltf-triangle/) - [repository](https://github.com/Twinklebear/webgpu-0-to-gltf?tab=readme-ov-file) - by Will Usher.
 - [Learn Wpgpu](https://sotrh.github.io/learn-wgpu/) - Examples and Showcase Rust & Wgpu - by [@sotrh](https://github.com/sotrh)
 - [LearningWebGPU 教程 (Chinese)](https://github.com/hjlld/LearningWebGPU) - by [@hjlld](https://github.com/hjlld)
 - [Real-Time Ray-Tracing in WebGPU](https://maierfelix.github.io/2020-01-13-webgpu-ray-tracing/) - by [Felix Maier](https://github.com/maierfelix)
 - [Build a compute rasterizer in WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md) - by [Omar Shehata](https://github.com/OmarShehata)
-- [\[Not finished\] WebGPU training](https://github.com/drawmindmap/webgpu-training) - by [@DrawMindmap](https://github.com/drawmindmap)
 - [WebGPU Engine Development (Chinese/English)](https://arche.graphics/docs/intro) - Development process of WebGPU Engine(C++ and TypeScript).
 - [Learn WebGPU for native C++ development](https://eliemichel.github.io/LearnWebGPU) - By @eliemichel.
 
@@ -99,22 +94,20 @@
 
 ## Libraries
 
-- [Babylon.js](https://doc.babylonjs.com/advanced_topics/webGPU) - Experimental support.
-- [Three.js](https://github.com/takahirox/THREE.WebGPURenderer) - Experimental support.
+- [Babylon.js](https://doc.babylonjs.com/setup/support/webGPU) - Open game and rendering engine.
+- [Three.js](https://threejs.org/) - Easy-to-use, lightweight, general-purpose 3D library.
 - [Dawn](https://dawn.googlesource.com/dawn) - Google implementation.
 - [Gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Mozilla implementation.
-- [Webcore module WebGPU](https://trac.webkit.org/browser/webkit/trunk/Source/WebCore/Modules/webgpu) - Webkit / Safari.
-- [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - WebGPU/Dawn experimental.
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
-- [sokol](https://github.com/floooh/sokol/issues/278) - WebGPU Backend TODO.
+- [sokol](https://github.com/floooh/sokol/) - Simple STB-style cross-platform libraries for C and C++.
 - [WebGPU for Node](https://github.com/maierfelix/webgpu) - Based on Dawn.
 - [RedGPU](https://github.com/redcamel/RedGPU) - By @redcamel.
 - [WebGPU .NET](https://github.com/WaveEngine/WebGPU.NET) - .NET binding.
-- [Deno roadmap](https://twitter.com/trivikram/status/1275469111674322945) - GPU APIs (WebGPU) to support ML apps.
+- [Deno](https://deno.com/) - Runtime for JavaScript, TypeScript, and WebAssembly based on the V8 engine.
 - [RedCube](https://github.com/Reon90/redcube) - GLTF implementation based on WebGPU backend.
 - [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - Micro WebGPU rendering & compute library.
 - [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - A WebGPU Shading Language parser and reflection library for JavaScript.
-- [Arche Graphics](https://github.com/ArcheGraphics) - WebGPU Graphics Engine.
+- [Arche Graphics](https://github.com/yangfengzzz/Arche.js) - WebGPU Graphics Engine.
 - [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper - by @eliemichel.
 - [Use.GPU](https://usegpu.live) - Reactive/declarative WebGPU runtime.
 - [GEngine](https://github.com/hpugis/GEngine) - A basic rendering engine based on WebGPU - by junwei.gu.
@@ -138,35 +131,27 @@
 
 Demos might work only on Chrome. Firefox implementation is not complete.
 
-- [WebGPU Samples](https://austineng.github.io/webgpu-samples/) - By [Austin Eng](https://github.com/austinEng) (Google) - [repository](https://github.com/austinEng/webgpu-samples)
+- [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - [repository](https://github.com/webgpu/webgpu-samples)
 - [WebGPUniverse](https://webgpuniverse.netlify.app) - By students from Imperial College London.
 - [WebGPU first-person exploration of the Sponza Palace](https://toji.github.io/webgpu-test/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-test)
 - [WebGPU Clustered Shading](https://toji.github.io/webgpu-clustered-shading/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-clustered-shading)
 - [WebGPU Metaballs](https://toji.github.io/webgpu-metaballs/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-metaballs)
 - [WebGPU External Texture Test](https://toji.github.io/webgpu-external-test/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-external-test)
 - [Online WGSK Editor](https://takahirox.github.io/online-wgsl-editor/) - by Takahiro - [repository](https://github.com/takahirox/online-wgsl-editor)
-- [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - by [Three.js](https://threejs.org) - [repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html)
+- [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - [repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html)
 - [Spookyball: a WebGPU-powered, Halloween-themed game](https://spookyball.com) - by Brandon Jones - [repository](https://github.com/toji/spookyball)
-- [Babylon.js Playground](https://playground.babylonjs.com/) - by Babylon.js (Note: Select `WebGPU` in the top right corner) - [repository](https://github.com/BabylonJS/Babylon.js/tree/master/Playground)
+- [Babylon.js Playground](https://playground.babylonjs.com/) - by Babylon.js (Note: Select `WebGPU` in the top right corner) - [repository](https://github.com/BabylonJS/Babylon.js/tree/master)
 - [Calculate and render particles with WebGPU](https://hsimpson.github.io/webgpu-particles/) - by [Daniel Toplak](https://github.com/hsimpson) - [repository](https://github.com/hsimpson/webgpu-particles)
 - [An online WebGPU calculator](https://laskin.live) - Using WebGPU on remote browser (via WebRTC) - [repository](https://github.com/periferia-labs/laskin.live)
-- [WebGPU study](https://redcamel.github.io/webgpu/) - By [Redcamel](https://github.com/redcamel) - [repository](https://github.com/redcamel/webgpu)
 - [Small examples of SPIR-V compatible WebGPU usage](https://tsherif.github.io/webgpu-examples/) - by [Tarek Sherif](https://github.com/tsherif) - [repository](https://github.com/tsherif/webgpu-examples)
-- [WebGPU examples](https://wgpu.rs/examples-gpu/) - by [wgpu.rs](https://wgpu.rs) - [repository](https://github.com/gfx-rs/wgpu/tree/master/wgpu/examples)
-- [Three.js WebGPURenderer](https://takahirox.github.io/THREE.WebGPURenderer/examples/) - By Takahiro.
-- [WebGPU point cloud](https://m-schuetz.github.io/webgpu_pointcloud/) - by [Markus Schütz](https://github.com/m-schuetz)
-- [Forest WebGPU](https://www.babylonjs.com/demos/webgpu/forestwebgpu) - by [Babylon.js](https://www.babylonjs.com)
+- [WebGPU examples](https://wgpu.rs/examples/) - by [wgpu.rs](https://wgpu.rs) - [repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples)
+- [Forest WebGPU](https://www.babylonjs.com/Demos/WebGPU/forestWebGPU.html) - by [Babylon.js](https://www.babylonjs.com)
 - [WebGPU-Playground](https://06wj.github.io/WebGPU-Playground/) - by [@06wj](https://github.com/06wj) - [repository](https://github.com/06wj/WebGPU-Playground)
 - [node-webgpu examples](https://github.com/maierfelix/webgpu-examples) - By Felix Maier.
 - [Dawn RT (Ray tracing extension for Dawn/WebGPU)](https://github.com/maierfelix/dawn-ray-tracing) - By Felix Maier.
-- [WebGPU Experiments](https://www.willusher.io/webgpu-experiments/) - by Will Usher - [repository](https://github.com/Twinklebear/webgpu-experiments)
 - [wgpu-load-test](https://github.com/MacTuitui/wgpu-load-test) - by [Alexis Andre](https://github.com/MacTuitui)
-- [WGSL-Toy](https://valeerajs.github.io/WGSL-Toy/build/) - by [@HypnosNova](https://github.com/HypnosNova) - [repository](https://github.com/ValeeraJS/WGSL-Toy)
 - [WebGPU Compute 101 Demo](https://hello-webgpu-compute.glitch.me) - [source code](https://glitch.com/edit/#!/hello-webgpu-compute)
-- [WebGPU: Rendering, compute, GPU experiments](https://oktomus.com/web-experiments/) - by [Kevin Masson](https://github.com/oktomus) - [repository](https://github.com/oktomus/web-experiments)
-- [WebGPU Sketch Dojo](https://gnikoloff.github.io/webgpu-dojo/) - by Georgi Nikolov - [repository](https://github.com/gnikoloff/webgpu-dojo)
-- [WebGPU Compute Metaballs](https://gnikoloff.github.io/webgpu-compute-metaballs/) - By Georgi Nikolov - [repository](https://github.com/gnikoloff/webgpu-compute-metaballs)
-- [WebGPU 2D Fluid Simulation](https://github.com/indiana-dev/WebGPU-Fluid-Simulation) - By indiana-dev.
+- [WebGPU 2D Fluid Simulation](https://kishimisu.github.io/WebGPU-Fluid-Simulation/) - By kishimisu - [repository](https://github.com/kishimisu/WebGPU-Fluid-Simulation).
 - [WebGPU-Lab](https://s-macke.github.io/WebGPU-Lab/) - By [Sebastian Macke](https://github.com/s-macke) - [repository](https://github.com/s-macke/WebGPU-Lab)
 - [WebGPU Live Demo Editor](https://www.wgsl.dev/editor) - By [Hepp Maccoy](https://github.com/hepp) - [repository](https://github.com/hepp/webgpu-examples)
 - [Thimbleberry Image Transform Demo](https://thimbleberry.dev) - By [mighdoll](https://vis.social/@mighdoll) - [repository](https://github.com/mighdoll/thimbleberry/tree/main/image-demo)
