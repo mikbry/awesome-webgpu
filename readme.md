@@ -1,6 +1,7 @@
 # Awesome WebGPU [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<img src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" align="right" height="150">
+[<img src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" align="right" height="150">](https://www.w3.org/TR/webgpu/)
+
 
 > Lovely curated list of WebGPU resources, libraries and tools.
 
