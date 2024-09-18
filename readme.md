@@ -101,7 +101,6 @@
 - [wgpu](https://github.com/gfx-rs/wgpu) - Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
 - [sokol](https://github.com/floooh/sokol/) - Simple STB-style cross-platform libraries for C and C++.
-- [WebGPU for Node](https://github.com/maierfelix/webgpu) - Based on Dawn.
 - [RedGPU](https://github.com/redcamel/RedGPU) - JavaScript WbeGPU library, by [@redcamel](https://github.com/redcamel).
 - [WebGPU .NET](https://github.com/WaveEngine/WebGPU.NET) - .NET bindings, built on top of wgpu.
 - [Deno](https://deno.com/) - Runtime for JavaScript, TypeScript, and WebAssembly based on the V8 engine.
@@ -133,7 +132,6 @@
 Demos might work only on Chrome. Firefox implementation is not complete.
 
 - [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - [repository](https://github.com/webgpu/webgpu-samples)
-- [WebGPUniverse](https://webgpuniverse.netlify.app) - By students from Imperial College London.
 - [WebGPU first-person exploration of the Sponza Palace](https://toji.github.io/webgpu-test/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-test)
 - [WebGPU Clustered Shading](https://toji.github.io/webgpu-clustered-shading/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-clustered-shading)
 - [WebGPU Metaballs](https://toji.github.io/webgpu-metaballs/) - by Brandon Jones - [repository](https://github.com/toji/webgpu-metaballs)
@@ -148,7 +146,6 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [WebGPU examples](https://wgpu.rs/examples/) - by [wgpu.rs](https://wgpu.rs) - [repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples)
 - [Forest WebGPU](https://www.babylonjs.com/Demos/WebGPU/forestWebGPU.html) - by [Babylon.js](https://www.babylonjs.com)
 - [WebGPU-Playground](https://06wj.github.io/WebGPU-Playground/) - by [@06wj](https://github.com/06wj) - [repository](https://github.com/06wj/WebGPU-Playground)
-- [node-webgpu examples](https://github.com/maierfelix/webgpu-examples) - By Felix Maier.
 - [Dawn RT (Ray tracing extension for Dawn/WebGPU)](https://github.com/maierfelix/dawn-ray-tracing) - By Felix Maier.
 - [wgpu-load-test](https://github.com/MacTuitui/wgpu-load-test) - by [Alexis Andre](https://github.com/MacTuitui)
 - [WebGPU Compute 101 Demo](https://hello-webgpu-compute.glitch.me) - [source code](https://glitch.com/edit/#!/hello-webgpu-compute)
@@ -175,17 +172,14 @@ Demos might work only on Chrome. Firefox implementation is not complete.
 - [A proper look at WebGPU for native games](https://www.youtube.com/watch?v=DdMl4E7xQEY) - By [Madrigal](https://www.madrigalgames.com/)
 ## Presentations
 
-- [Tint](https://docs.google.com/presentation/d/1qHhFq0GJtY_59rNjpiHU--JW4bW4Ji3zWei-gM6cabs) - Proposal for textual shader language by Google.
 - [Building WebGPU with Rust](https://fosdem.org/2020/schedule/event/rust_webgpu/) - By Dzmitry Malyshau from Mozilla.
 
 ## Community
 
 - [GPU for the web community group](https://www.w3.org/community/gpu/) - W3C Community.
 - [Public GPU](https://lists.w3.org/Archives/Public/public-gpu/) - W3C Mailing list.
-- [Gitter chat](https://gitter.im/gfx-rs/webgpu) - DEPRECATED - by Mozilla.
 - [Matrix WebGPU](https://matrix.to/#/#WebGPU:matrix.org) - Unofficial channel.
 - [YC Point of WebGPU on native](https://news.ycombinator.com/item?id=23079200) - Discussion regarding this article.
-- [Possibility of SPIR-V and/or GLSL as a WebGPU extension?](https://github.com/gpuweb/gpuweb/issues/847) - WGSL in debate.
 
 ## Bug reporting
 
