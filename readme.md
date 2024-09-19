@@ -53,24 +53,24 @@
 
 ## Articles
 
-- [WebGPU - Wikipedia](https://en.wikipedia.org/wiki/WebGPU)
-- [A Taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/) - Mozilla.org article  - by Dzmitry Malyshau.
+- [WebGPU - Wikipedia article](https://en.wikipedia.org/wiki/WebGPU).
+- [A Taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/) - Mozilla.org article by Dzmitry Malyshau.
 - [Point of WebGPU native](https://kvark.github.io/web/gpu/native/2020/05/03/point-of-webgpu-native) - By Dzmitry Malyshau.
-- [Graphics on the web and beyond with WebGPU](https://dmnsgn.medium.com/13c4ba049039) - medium.com - by [Damien Seguin](https://dmnsgn.medium.com/)
-- [Implementing WebGPU in Gecko](https://kvark.github.io/web/gpu/gecko/2019/12/10/gecko-webgpu) - By [Dzmitry Malyshau](https://github.com/kvark)
+- [Graphics on the web and beyond with WebGPU](https://dmnsgn.medium.com/13c4ba049039) - By [Damien Seguin](https://dmnsgn.medium.com/).
+- [Implementing WebGPU in Gecko](https://kvark.github.io/web/gpu/gecko/2019/12/10/gecko-webgpu) - By [Dzmitry Malyshau](https://github.com/kvark).
 - [From WebGL to WebGPU in Construct](https://www.construct.net/en/blogs/ashleys-blog-2/webgl-webgpu-construct-1519) - By Ashley Gullen.
 - [A brief history of graphics on the web and WebGPU](https://www.construct.net/en/blogs/ashleys-blog-2/brief-history-graphics-web-1517) - By Ashley Gullen.
 - [WebGPU texture best practices](https://toji.github.io/webgpu-best-practices/img-textures.html) - By Brandon Jones.
 - [WebGPU Buffer upload best practices](https://toji.github.io/webgpu-best-practices/buffer-uploads.html) - By Brandon Jones.
 - [wgpu-rs on the web](https://gfx-rs.github.io/2020/04/21/wgpu-web) - Rust Graphics Mages.
-- [Compiling Machine Learning to WASM and WebGPU with Apache TVM](https://tvm.apache.org/2020/05/14/compiling-machine-learning-to-webassembly-and-webgpu) - tvm.apache.org (by [Tianqi Chen](https://github.com/tqchen) & [Jared Roesch](https://github.com/jroesch))
-- [The WebAssembly App Gap](https://paulbutler.org/2020/the-webassembly-app-gap/) - by [Paul Butler](https://github.com/paulgb)
-- [Next-generation 3D Graphics on the web](https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/) - Webkit.org (by [Dean Jackson](https://twitter.com/grorgwork))
-- [Efficently rendering glTF models - A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/) - By [Brandon Jones](https://github.com/toji)
-- [WebGPU - All of the cores, none of the canvas](https://surma.dev/things/webgpu/index.html) - By [Surma](https://github.com/surma)
+- [Compiling Machine Learning to WASM and WebGPU with Apache TVM](https://tvm.apache.org/2020/05/14/compiling-machine-learning-to-webassembly-and-webgpu) - By [Tianqi Chen](https://github.com/tqchen) & [Jared Roesch](https://github.com/jroesch).
+- [The WebAssembly App Gap](https://paulbutler.org/2020/the-webassembly-app-gap/) - By [Paul Butler](https://github.com/paulgb).
+- [Next-generation 3D Graphics on the web](https://webkit.org/blog/7380/next-generation-3d-graphics-on-the-web/) - Webkit.org article by [Dean Jackson](https://twitter.com/grorgwork).
+- [Efficently rendering glTF models - A WebGPU Case Study](https://toji.github.io/webgpu-gltf-case-study/) - By [Brandon Jones](https://github.com/toji).
+- [WebGPU - All of the cores, none of the canvas](https://surma.dev/things/webgpu/index.html) - By [Surma](https://github.com/surma).
 - [WebGPU Fundamentals](https://webgpufundamentals.org/) - A set of articles to help learn WebGPU.
-- [PBR in WebGPU: implementation details](https://tchayen.com/pbr-in-webgpu-implementation-details) - By [Tomasz Czajecki](https://github.com/tchayen)
-- [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) - By [Andi](https://mastodon.social/@mcc)
+- [PBR in WebGPU: implementation details](https://tchayen.com/pbr-in-webgpu-implementation-details) - By [Tomasz Czajecki](https://github.com/tchayen).
+- [I want to talk about WebGPU](https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu) - By [Andi](https://mastodon.social/@mcc).
 - [From WebGL to WebGPU](https://developer.chrome.com/blog/from-webgl-to-webgpu/) - By Google.
 - [WebGPU for Dummies](https://amirsojoodi.github.io/posts/WebGPU-for-Dummies/) - By Amir Sojoodi.
 - [WebGPU Timestamps](https://amirsojoodi.github.io/posts/WebGPU-Timestamp/) - By Amir Sojoodi.
