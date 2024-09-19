@@ -5,7 +5,7 @@
 
 > Lovely curated list of WebGPU resources, libraries and tools.
 
-[WebGPU](https://www.w3.org/TR/webgpu) is a work in progress [Web standard from W3C](https://www.w3.org/) for modern 3D and GPU computing. Its purpose is to get the best performances on recent GPUs from desktop to mobile. Unlike WebGL, WebGPU is not a port of an existing native API. It borrows concepts from Metal, Vulkan and Direct3D12.
+WebGPU is a work in progress [Web standard from W3C](https://www.w3.org/) for modern 3D and GPU computing. Its purpose is to get the best performances on recent GPUs from desktop to mobile. Unlike WebGL, WebGPU is not a port of an existing native API. It borrows concepts from Metal, Vulkan and Direct3D12.
 
 ## Contents
 
@@ -53,7 +53,7 @@
 
 ## Articles
 
-- [WebGPU - Wikipedia article](https://en.wikipedia.org/wiki/WebGPU).
+- [WebGPU](https://en.wikipedia.org/wiki/WebGPU) - Wikipedia article.
 - [A Taste of WebGPU in Firefox](https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/) - Mozilla.org article by Dzmitry Malyshau.
 - [Point of WebGPU native](https://kvark.github.io/web/gpu/native/2020/05/03/point-of-webgpu-native) - By Dzmitry Malyshau.
 - [Graphics on the web and beyond with WebGPU](https://dmnsgn.medium.com/13c4ba049039) - By [Damien Seguin](https://dmnsgn.medium.com/).
@@ -108,7 +108,7 @@
 - [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - Micro WebGPU rendering & compute library.
 - [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - A WebGPU Shading Language parser and reflection library for JavaScript.
 - [Arche Graphics](https://github.com/yangfengzzz/Arche.js) - WebGPU Graphics Engine.
-- [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper, by [@eliemichel](https://github.com/eliemichel).
+- [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper, by @eliemichel.
 - [Use.GPU](https://usegpu.live) - Reactive/declarative WebGPU runtime.
 - [GEngine](https://github.com/hpugis/GEngine) - A basic rendering engine based on WebGPU, by junwei.gu.
 - [Thimbleberry](https://github.com/mighdoll/thimbleberry) - Reusuable WebGPU shaders and support functions.
@@ -131,28 +131,28 @@
 Right now, demos work best on Chrome/Edge.
 
 - [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - A set of samples and demos demonstrating the use of the WebGPU API - [Repository](https://github.com/webgpu/webgpu-samples)
-- [WebGPU first-person exploration of the Sponza Palace](https://toji.github.io/webgpu-test/) - Scene render comparison between WebGL, WebGL 2.0 and WebGPU, by [Brandon Jones](https://github.com/toji/) - [Repository](https://github.com/toji/webgpu-test)
-- [WebGPU Clustered Shading](https://toji.github.io/webgpu-clustered-shading/) - By [Brandon Jones](https://github.com/toji/) - [Repository](https://github.com/toji/webgpu-clustered-shading)
-- [WebGPU Metaballs](https://toji.github.io/webgpu-metaballs/) - By [Brandon Jones](https://github.com/toji/) - [Repository](https://github.com/toji/webgpu-metaballs)
-- [WebGPU External Texture Test](https://toji.github.io/webgpu-external-test/) - By [Brandon Jones](https://github.com/toji/) - [Repository](https://github.com/toji/webgpu-external-test)
+- [WebGPU first-person exploration of the Sponza Palace](https://toji.github.io/webgpu-test/) - Scene render comparison between WebGL, WebGL 2.0 and WebGPU, by Brandon Jones - [Repository](https://github.com/toji/webgpu-test)
+- [WebGPU Clustered Shading](https://toji.github.io/webgpu-clustered-shading/) - By Brandon Jones - [Repository](https://github.com/toji/webgpu-clustered-shading)
+- [WebGPU Metaballs](https://toji.github.io/webgpu-metaballs/) - By Brandon Jones - [Repository](https://github.com/toji/webgpu-metaballs)
+- [WebGPU External Texture Test](https://toji.github.io/webgpu-external-test/) - By Brandon Jones - [Repository](https://github.com/toji/webgpu-external-test)
 - [Online WGSL Editor](https://takahirox.github.io/online-wgsl-editor/) - By [Takahiro](https://github.com/takahirox) - [Repository](https://github.com/takahirox/online-wgsl-editor)
-- [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from [three.js](https://threejs.org/) using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html)
-- [Spookyball](https://spookyball.com) - A Halloween-themed, open source Breakout clone, by [Brandon Jones](https://github.com/toji/) - [Repository](https://github.com/toji/spookyball)
+- [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from three.js using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html)
+- [Spookyball](https://spookyball.com) - A Halloween-themed, open source Breakout clone, by Brandon Jones - [Repository](https://github.com/toji/spookyball)
 - [Babylon.js Playground](https://playground.babylonjs.com/) - By [Babylon.js](https://www.babylonjs.com/) (Note: Select `WebGPU` in the top right corner).
 - [WebGPU Particles](https://hsimpson.github.io/webgpu-particles/) - Calculate and render particles, by [Daniel Toplak](https://github.com/hsimpson) - [Repository](https://github.com/hsimpson/webgpu-particles)
-- [An online WebGPU calculator](https://laskin.live) - An online calculator, but you can only use it on your remote friend’s GPU (via WebRTC) - [Repository](https://github.com/periferia-labs/laskin.live)
+- [An online WebGPU calculator](https://laskin.live) - An online calculator, but you can only use it on your remote friend's GPU (via WebRTC) - [Repository](https://github.com/periferia-labs/laskin.live)
 - [WebGPU Examples](https://tsherif.github.io/webgpu-examples/) - A few examples of rendering algorithms implemented in WebGPU, by [Tarek Sherif](https://github.com/tsherif) - [Repository](https://github.com/tsherif/webgpu-examples)
 - [wgpu examples](https://wgpu.rs/examples/) - Official list of examples from the [wgpu](https://wgpu.rs) library - [Repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples)
-- [Forest WebGPU](https://www.babylonjs.com/Demos/WebGPU/forestWebGPU.html) - A scene built with [Babylon.js](https://www.babylonjs.com).
+- [Forest WebGPU](https://www.babylonjs.com/Demos/WebGPU/forestWebGPU.html) - A scene built with Babylon.js.
 - [WebGPU-Playground](https://06wj.github.io/WebGPU-Playground/) - A playground to experiment with WebGPU, by [@06wj](https://github.com/06wj) - [Repository](https://github.com/06wj/WebGPU-Playground)
-- [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) - A fork of dawn with Ray tracing extensions, by [Felix Maier](https://github.com/maierfelix).
+- [Dawn RT](https://github.com/maierfelix/dawn-ray-tracing) - A fork of dawn with Ray tracing extensions, by Felix Maier.
 - [wgpu-load-test](https://github.com/MacTuitui/wgpu-load-test) - A wgpu stress test, by [Alexis Andre](https://github.com/MacTuitui).
 - [WebGPU Compute 101 Demo](https://hello-webgpu-compute.glitch.me) - A simple example using compute shaders. [source](https://glitch.com/edit/#!/hello-webgpu-compute)
 - [WebGPU 2D Fluid Simulation](https://kishimisu.github.io/WebGPU-Fluid-Simulation/) - An implementation of "Real-Time Fluid Dynamics for Games" paper, by [kishimisu](https://github.com/kishimisu) - [Repository](https://github.com/kishimisu/WebGPU-Fluid-Simulation)
 - [WebGPU-Lab](https://s-macke.github.io/WebGPU-Lab/) - Demos and experiments, focused on compute shaders, by [Sebastian Macke](https://github.com/s-macke) - [Repository](https://github.com/s-macke/WebGPU-Lab)
 - [WebGPU Live Demo Editor](https://www.wgsl.dev/editor) - A collection of WebGPU examples by [Hepp Maccoy](https://github.com/hepp) - [Repository](https://github.com/hepp/webgpu-examples)
 - [Thimbleberry Image Transform Demo](https://thimbleberry.dev) - An Image processing app built using Thimbleberry, by [mighdoll](https://vis.social/@mighdoll) - [Repository](https://github.com/mighdoll/thimbleberry/tree/main/image-demo)
-- [Shadowray Playground](https://shadowray.gl) - Demo of WebRTX, an extension of the WebGPU API with ray tracing capabilities, implemented with compute shaders, by [codedhead](https://github.com/codedhead) - [Repository](https://github.com/codedhead/webrtx)
+- [Shadowray Playground](https://shadowray.gl) - Demo of WebRTX, an extension of the WebGPU API with ray tracing capabilities, implemented with compute shaders, by [codedhead](https://github.com/codedhead).
 - [Web Stable Diffusion](https://mlc.ai/web-stable-diffusion/#text-to-image-generation-demo) - An implementation of the image generator AI model, by CMU, OctoML, Catalyst et al - [Repository](https://github.com/mlc-ai/web-stable-diffusion)
 - [WebLLM](https://mlc.ai/web-llm/) - LLM inference engine, by CMU, University of Washington, OctoML, et al - [Repository](https://github.com/mlc-ai/web-llm)
 - [Shader Graph WGSL](https://deepkolos.github.io/shader-graph-wgsl/) - A node based shader editor, by [deepkolos](https://github.com/deepkolos) - [Repository](https://github.com/deepkolos/shader-graph-wgsl)
