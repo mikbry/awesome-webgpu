@@ -5,7 +5,7 @@
 
 > Lovely curated list of WebGPU resources, libraries and tools.
 
-WebGPU is a work in progress [Web standard from W3C](https://www.w3.org/) for modern 3D and GPU computing. Its purpose is to get the best performances on recent GPUs from desktop to mobile. Unlike WebGL, WebGPU is not a port of an existing native API. It borrows concepts from Metal, Vulkan and Direct3D12.
+WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for modern 3D and GPU computing. Its purpose is to get the best performances on recent GPUs from desktop to mobile. Unlike WebGL, WebGPU is not a port of an existing native API. It borrows concepts from Metal, Vulkan and Direct3D12.
 
 ## Contents
 
@@ -41,9 +41,6 @@ WebGPU is a work in progress [Web standard from W3C](https://www.w3.org/) for mo
 
 - [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - Official W3C Group.
 - [WebGPU browser support overview](https://caniuse.com/webgpu) - CanIUse.com WebGPU.
-
-### Try out WebGPU
-
 - [Chrome](https://www.google.com/chrome/) - WebGPU supported by default in Windows and macOS.
 - Chrome for Android - WebGPU supported by default.
 - [Edge](https://www.microsoft.com/edge/) - WebGPU supported by default.
@@ -187,5 +184,10 @@ Right now, demos work best on Chrome/Edge.
 - [Firefox](https://bugzilla.mozilla.org/buglist.cgi?product=Core&component=Graphics%3A%20WebGPU)
 - [Chromium](https://bugs.chromium.org/p/chromium/issues/list?q=component:Blink%3EWebGPU)
 
+---
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Mik Bry](https://github.com/mikbry) has waived all copyright and related or neighboring rights to this work.
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
