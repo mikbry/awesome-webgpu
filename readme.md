@@ -25,12 +25,24 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 ## Websites
 
+### Official websites
 - [GPUWeb](https://github.com/gpuweb/gpuweb) - Official GitHub repository.
 - [WebGPU - Twitter](https://x.com/webgpu) - Official X/Twitter account.
-- Official WebGPU Specifications: [History](https://www.w3.org/standards/history/webgpu/) / [Editor's Draft](https://gpuweb.github.io/gpuweb/)
-- Official WGSL (WebGPU Shading Language) Specifications: [Working Draft](https://www.w3.org/TR/WGSL/) / [Editor's Draft](https://gpuweb.github.io/gpuweb/wgsl/)
 - [Official WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
+
+### WebGPU Specifications
+- [History](https://www.w3.org/standards/history/webgpu/)
+- [Editor's Draft](https://gpuweb.github.io/gpuweb/)
+### WGSL (WebGPU Shading Language) Specifications
+- [Working Draft](https://www.w3.org/TR/WGSL/)
+- [Editor's Draft](https://gpuweb.github.io/gpuweb/wgsl/)
+
+
+### API documentations
 - [API quick reference and documentation](https://webgpu.rocks/) - WebGPU.rocks.
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) - MDN WebGPU API references.
+
+### Misc
 - [Google Developers Site](https://developer.chrome.com/docs/web-platform/webgpu)
 - [107 WebGPU Projects on GitHub](https://awesomeopensource.com/projects/webgpu) - AwesomeOpenSource.com.
 - [r/WebGPU - Reddit](https://www.reddit.com/r/webgpu/) - WebGPU Subreddit.
@@ -38,15 +50,25 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [Shadeup](https://shadeup.dev/) - Language/website that makes experimenting with WebGPU easier.
 
 ## Browser support
-
+> This is an experimental technology
 - [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - Official W3C Group.
 - [WebGPU browser support overview](https://caniuse.com/webgpu) - CanIUse.com WebGPU.
-- [Chrome](https://www.google.com/chrome/) - WebGPU supported by default in Windows and macOS.
-- Chrome for Android - WebGPU supported by default.
-- [Edge](https://www.microsoft.com/edge/) - WebGPU supported by default.
+
+### Chrome
+> Chrome and Blink/Chromium based browsers support WebGPU
+- [Desktop](https://www.google.com/chrome/) - WebGPU supported by default on Windows and macOS.
+- [Android](https://developer.chrome.com/blog/new-in-webgpu-121) - WebGPU is supported by default.
+- [Edge](https://www.microsoft.com/edge/) - WebGPU is supported by default.
+
+### Firefox
+> WebGPU support is still experimental
 - [Firefox Nightly](https://nightly.mozilla.org/) - Go to `about:config` and set `dom.webgpu.enabled` to true.
-- [Safari](https://apple.com/safari/) - Enable the Develop menu by going to `Safari` &rightarrow; `Settings` &rightarrow; `Advanced` &rightarrow; `Show features for web developers`. Then in the `Develop` menu or in `Settings`, you can enable WebGPU in `Feature Flags` &rightarrow; `WebGPU`.
-- iOS Safari - You can enable WebGPU in `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
+
+### Safari
+> WebGPU support is still experimental
+- [macOS Safari TP](https://developer.apple.com/safari/resources/) - WebGPU is enabled by default since 190
+- [macOS Safari](https://www.apple.com/safari/) - Soon available.
+- [iOS](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - You can enable WebGPU in `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
 
 ## Articles
 
