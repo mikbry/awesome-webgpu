@@ -48,6 +48,8 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [r/WebGPU - Reddit](https://www.reddit.com/r/webgpu/) - WebGPU Subreddit.
 - [compute.toys](https://compute.toys/) - Compute shader playground (like shadertoy).
 - [Shadeup](https://shadeup.dev/) - Language/website that makes experimenting with WebGPU easier.
+- [Tour of WGSL](https://google.github.io/tour-of-wgsl/) - A quick introduction to the WebGPU Shading Language.
+- [WebGPU Experts Blog](https://www.webgpuexperts.com/blog) - Monthly news about WebGPU.
 
 ## Browser support
 > This is an experimental technology
@@ -66,7 +68,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 ### Safari
 > WebGPU support is still experimental
-- [macOS Safari TP](https://developer.apple.com/safari/resources/) - WebGPU is enabled by default since 190
+- [macOS Safari TP](https://developer.apple.com/safari/resources/) - WebGPU is enabled by default since 190.
 - [macOS Safari](https://www.apple.com/safari/) - Soon available.
 - [iOS](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - You can enable WebGPU in `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
 
@@ -93,6 +95,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [From WebGL to WebGPU](https://developer.chrome.com/blog/from-webgl-to-webgpu/) - By Google.
 - [WebGPU for Dummies](https://amirsojoodi.github.io/posts/WebGPU-for-Dummies/) - By Amir Sojoodi.
 - [WebGPU Timestamps](https://amirsojoodi.github.io/posts/WebGPU-Timestamp/) - By Amir Sojoodi.
+- [WebAssembly and WebGPU](https://developer.chrome.com/blog/io24-webassembly-webgpu-2) - Learn how WebAssembly and WebGPU improve ml performance on the web Part2.
 
 ## Tutorials
 
@@ -133,6 +136,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [Thimbleberry](https://github.com/mighdoll/thimbleberry) - Reusuable WebGPU shaders and support functions.
 - [WebRTX](https://github.com/codedhead/webrtx) - WebGPU Ray Tracing Extension.
 - [SWGPU](https://github.com/jay19240/SWGPU) - A Simple WebGPU Game Engine.
+- [React Native WebGPU](https://github.com/wcandillon/react-native-webgpu) - React Native implementation of WebGPU using Dawn.
 
 ## Debuggers and Profilers
 
