@@ -9,19 +9,29 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 ## Contents
 
-- [Websites](#websites)
-- [Browser support](#browser-support)
-- [Articles](#articles)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Libraries](#libraries)
-- [Debuggers and Profilers](#debuggers-and-profilers)
-- [Gists](#gists)
-- [Demos](#demos)
-- [Videos](#videos)
-- [Presentations](#presentations)
-- [Community](#community)
-- [Bug reporting](#bug-reporting)
+- [Awesome WebGPU ](#awesome-webgpu-)
+  - [Contents](#contents)
+  - [Websites](#websites)
+    - [Official websites](#official-websites)
+    - [WebGPU Specifications](#webgpu-specifications)
+    - [WGSL (WebGPU Shading Language) Specifications](#wgsl-webgpu-shading-language-specifications)
+    - [API documentations](#api-documentations)
+    - [Misc](#misc)
+  - [Browser support](#browser-support)
+    - [Chrome](#chrome)
+    - [Firefox](#firefox)
+    - [Safari](#safari)
+  - [Articles](#articles)
+  - [Tutorials](#tutorials)
+  - [Books](#books)
+  - [Libraries](#libraries)
+  - [Debuggers and Profilers](#debuggers-and-profilers)
+  - [Gists](#gists)
+  - [Demos](#demos)
+  - [Videos](#videos)
+  - [Presentations](#presentations)
+  - [Community](#community)
+  - [Bug reporting](#bug-reporting)
 
 ## Websites
 
@@ -185,6 +195,7 @@ Right now, demos work best on Chrome/Edge.
 - [WebGPU Memory Model Testing](https://gpuharbor.ucsc.edu/webgpu-mem-testing/) - Memory models testing suite, by [Reese Levine](https://github.com/reeselevine) et al., UC Santa Cruz - [Repository](https://github.com/reeselevine/webgpu-litmus)
 - [Marching Cubes WebGPU](https://conorpo.github.io/marching-cubes-webgpu/) - Marching cubes implementation, by [Conor O'Malley](https://github.com/conorpo) - [Repository](https://github.com/conorpo/marching-cubes-webgpu)
 - [WebGPU Path Tracing](https://iamferm.in/webgpu-path-tracing/) - A path tracer powered by WebGPU compute shaders, by [Fermin Lozano](https://github.com/ferminLR) - [Repository](https://github.com/ferminLR/webgpu-path-tracing)
+- [WebGPU real-time ray tracer](https://github.com/C-none/Web-RTRT/) - A real-time ray tracer implementing ReSTIR algorithm - [Repository](https://github.com/C-none/Web-RTRT)
 
 ## Videos
 
