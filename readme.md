@@ -96,6 +96,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [WebGPU for Dummies](https://amirsojoodi.github.io/posts/WebGPU-for-Dummies/) - By Amir Sojoodi.
 - [WebGPU Timestamps](https://amirsojoodi.github.io/posts/WebGPU-Timestamp/) - By Amir Sojoodi.
 - [WebAssembly and WebGPU](https://developer.chrome.com/blog/io24-webassembly-webgpu-2) - Learn how WebAssembly and WebGPU improve ml performance on the web Part2.
+- [How to make a simple AI application](https://medium.com/@victor_bluera/how-to-make-a-simple-ai-application-faec90499359) - By [Bluera](https://bluera.ai).
 
 ## Tutorials
 
@@ -140,6 +141,8 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [TypeGPU](https://typegpu.com/) - TypeScript API for constructing, writing to and reading from GPU buffers with inferred type-safety.
 - [WESL](https://github.com/wgsl-tooling-wg/wesl-spec/blob/main/README.md) - WGSL extensions for `import`, `@if`, and more. 
 - [WebGpGpu.ts](https://github.com/eddow/webgpgpu) - A WebGPU framework to access compute shaders, browser or server-side, without the steep learning curve.
+- [◉ Universal Intelligence](https://github.com/blueraai/universal-intelligence) - Simple cross-platform AI protocols & components, using WebGPU
+  - Introduction → [How to make a simple AI application](https://medium.com/@victor_bluera/how-to-make-a-simple-ai-application-faec90499359)
 
 ## Debuggers and Profilers
 
