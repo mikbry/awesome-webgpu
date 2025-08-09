@@ -27,7 +27,6 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 ### Official websites
 - [GPUWeb](https://github.com/gpuweb/gpuweb) - Official GitHub repository.
-- [WebGPU - Twitter](https://x.com/webgpu) - Official X/Twitter account.
 - [Official WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 
 ### WebGPU Specifications
