@@ -9,35 +9,24 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 ## Contents
 
-- [Awesome WebGPU ](#awesome-webgpu-)
-  - [Contents](#contents)
-  - [Websites](#websites)
-    - [Official websites](#official-websites)
-    - [WebGPU Specifications](#webgpu-specifications)
-    - [WGSL (WebGPU Shading Language) Specifications](#wgsl-webgpu-shading-language-specifications)
-    - [API documentations](#api-documentations)
-    - [Misc](#misc)
-  - [Browser support](#browser-support)
-    - [Chrome](#chrome)
-    - [Firefox](#firefox)
-    - [Safari](#safari)
-  - [Articles](#articles)
-  - [Tutorials](#tutorials)
-  - [Books](#books)
-  - [Libraries](#libraries)
-  - [Debuggers and Profilers](#debuggers-and-profilers)
-  - [Gists](#gists)
-  - [Demos](#demos)
-  - [Videos](#videos)
-  - [Presentations](#presentations)
-  - [Community](#community)
-  - [Bug reporting](#bug-reporting)
+- [Websites](#websites)
+- [Browser support](#browser-support)
+- [Articles](#articles)
+- [Tutorials](#tutorials)
+- [Books](#books)
+- [Libraries](#libraries)
+- [Debuggers and Profilers](#debuggers-and-profilers)
+- [Gists](#gists)
+- [Demos](#demos)
+- [Videos](#videos)
+- [Presentations](#presentations)
+- [Community](#community)
+- [Bug reporting](#bug-reporting)
 
 ## Websites
 
 ### Official websites
 - [GPUWeb](https://github.com/gpuweb/gpuweb) - Official GitHub repository.
-- [WebGPU - Twitter](https://x.com/webgpu) - Official X/Twitter account.
 - [Official WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 
 ### WebGPU Specifications
