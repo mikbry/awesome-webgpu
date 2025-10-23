@@ -142,10 +142,11 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
 
 ## Debuggers and Profilers
-
-- [webgpu-devtools](https://github.com/takahirox/webgpu-devtools) - Web browser extention.
-- [webgpu-recorder](https://github.com/brendan-duncan/webgpu_recorder) - A WebGPU playback recorder.
+- [webgpu-inspector](https://github.com/brendan-duncan/webgpu_inspector) - Inspection debugger for WebGpu.
 - [webgpu-profiler](https://crates.io/crates/wgpu-profiler) - A profiler for Rust + WebGPU.
+
+These have not been updated for a while:
+- [webgpu-devtools](https://github.com/takahirox/webgpu-devtools) - Web browser extention.
 - [webgpu-debugger](https://github.com/webgpu/webgpu-debugger) - Early stage debugger.
 
 ## Gists
