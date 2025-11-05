@@ -118,6 +118,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 
 - [Babylon.js](https://doc.babylonjs.com/setup/support/webGPU) - Open game and rendering engine.
 - [Three.js](https://threejs.org/) - Easy-to-use, lightweight, general-purpose 3D library.
+- [PlayCanvas](https://playcanvas.com/) - Web-based game engine with WebGPU support.
 - [Dawn](https://dawn.googlesource.com/dawn) - Google implementation that powers WebGPU in Chromium, can be used as a standalone package.
 - [wgpu](https://github.com/gfx-rs/wgpu) - Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
@@ -166,6 +167,7 @@ Right now, demos work best on Chrome/Edge.
 - [Three.js WebGPU examples](https://threejs.org/examples/?q=webgpu) - A collection of examples from three.js using the WebGPU renderer - [Repository](https://github.com/mrdoob/three.js/tree/dev/examples#:~:text=webgpu_compute.html)
 - [Spookyball](https://spookyball.com) - A Halloween-themed, open source Breakout clone, by Brandon Jones - [Repository](https://github.com/toji/spookyball)
 - [Babylon.js Playground](https://playground.babylonjs.com/) - By [Babylon.js](https://www.babylonjs.com/) (Note: Select `WebGPU` in the top right corner).
+- [PlayCanvas WebGPU Demos](https://playcanvas.vercel.app/) - By [PlayCanvas](https://playcanvas.com/) (Note: Select `WebGPU` in the top right corner).
 - [WebGPU Particles](https://hsimpson.github.io/webgpu-particles/) - Calculate and render particles, by [Daniel Toplak](https://github.com/hsimpson) - [Repository](https://github.com/hsimpson/webgpu-particles)
 - [An online WebGPU calculator](https://laskin.live) - An online calculator, but you can only use it on your remote friend's GPU (via WebRTC) - [Repository](https://github.com/periferia-labs/laskin.live)
 - [WebGPU Examples](https://tsherif.github.io/webgpu-examples/) - A few examples of rendering algorithms implemented in WebGPU, by [Tarek Sherif](https://github.com/tsherif) - [Repository](https://github.com/tsherif/webgpu-examples)
