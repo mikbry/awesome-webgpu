@@ -189,6 +189,8 @@ Right now, demos work best on Chrome/Edge.
 - [Marching Cubes WebGPU](https://conorpo.github.io/marching-cubes-webgpu/) - Marching cubes implementation, by [Conor O'Malley](https://github.com/conorpo) - [Repository](https://github.com/conorpo/marching-cubes-webgpu)
 - [WebGPU Path Tracing](https://iamferm.in/webgpu-path-tracing/) - A path tracer powered by WebGPU compute shaders, by [Fermin Lozano](https://github.com/ferminLR) - [Repository](https://github.com/ferminLR/webgpu-path-tracing)
 - [Real-Time GPU Texture Compression Demo](https://ludicon.com/sparkjs/gltf-demo/) - Showcases the advantages of real-time texture compression. Compares models using KTX2 textures against AVIF + Spark.
+- [Therapy Warsaw Flow-Field](https://therapywarsaw.com) - Dual-stack WebGPU/WebGL2 generative engine visualizing psychotherapy as flowing patterns emerging from complexity. Spring physics, Oklab color mixing, 9 morphing presets. [Source](https://github.com/23x2/generative-flow-field)
+
 
 ## Videos
 
