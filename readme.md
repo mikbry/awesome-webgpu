@@ -68,8 +68,8 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 ### Safari
 > WebGPU support is still experimental
 - [macOS Safari TP](https://developer.apple.com/safari/resources/) - WebGPU is enabled by default since 190.
-- [macOS Safari](https://www.apple.com/safari/) - Soon available.
-- [iOS](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - You can enable WebGPU in `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
+- [macOS Safari](https://www.apple.com/safari/) - WebGPU enabled by default on macOS 26 Tahoe or later; earlier versions require the `WebGPU` feature flag.
+- [iOS/iPadOS Safari](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - WebGPU supported by default on iOS/iPadOS 26 or later; earlier versions require `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
 
 ## Articles
 
@@ -119,6 +119,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [Babylon.js](https://doc.babylonjs.com/setup/support/webGPU) - Open game and rendering engine.
 - [Three.js](https://threejs.org/) - Easy-to-use, lightweight, general-purpose 3D library.
 - [PlayCanvas](https://playcanvas.com/) - Web-based game engine with WebGPU support.
+- [PixiJS](https://pixijs.com/) - 2D rendering engine with a WebGPU renderer.
 - [Dawn](https://dawn.googlesource.com/dawn) - Google implementation that powers WebGPU in Chromium, can be used as a standalone package.
 - [wgpu](https://github.com/gfx-rs/wgpu) - Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
@@ -142,6 +143,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [WebGpGpu.ts](https://github.com/eddow/webgpgpu) - A WebGPU framework to access compute shaders, browser or server-side, without the steep learning curve.
 - [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
 - [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
+- [ChartGPU](https://github.com/chartgpu/chartgpu) - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
 
 ## Debuggers and Profilers
 - [webgpu-inspector](https://github.com/brendan-duncan/webgpu_inspector) - Inspection debugger for WebGpu.
@@ -169,6 +171,7 @@ Right now, demos work best on Chrome/Edge.
 - [Spookyball](https://spookyball.com) - A Halloween-themed, open source Breakout clone, by Brandon Jones - [Repository](https://github.com/toji/spookyball)
 - [Babylon.js Playground](https://playground.babylonjs.com/) - By [Babylon.js](https://www.babylonjs.com/) (Note: Select `WebGPU` in the top right corner).
 - [PlayCanvas WebGPU Demos](https://playcanvas.vercel.app/) - By [PlayCanvas](https://playcanvas.com/) (Note: Select `WebGPU` in the top right corner).
+- [Project Prismatic](https://play.projectprismatic.com) - Stratton Studios Unity-powered WebGPU experience/demo.
 - [WebGPU Particles](https://hsimpson.github.io/webgpu-particles/) - Calculate and render particles, by [Daniel Toplak](https://github.com/hsimpson) - [Repository](https://github.com/hsimpson/webgpu-particles)
 - [An online WebGPU calculator](https://laskin.live) - An online calculator, but you can only use it on your remote friend's GPU (via WebRTC) - [Repository](https://github.com/periferia-labs/laskin.live)
 - [WebGPU Examples](https://tsherif.github.io/webgpu-examples/) - A few examples of rendering algorithms implemented in WebGPU, by [Tarek Sherif](https://github.com/tsherif) - [Repository](https://github.com/tsherif/webgpu-examples)
