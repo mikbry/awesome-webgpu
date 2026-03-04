@@ -188,6 +188,7 @@ Right now, demos work best on Chrome/Edge.
 - [Shadowray Playground](https://shadowray.gl) - Demo of WebRTX, an extension of the WebGPU API with ray tracing capabilities, implemented with compute shaders, by [codedhead](https://github.com/codedhead).
 - [Web Stable Diffusion](https://mlc.ai/web-stable-diffusion/#text-to-image-generation-demo) - An implementation of the image generator AI model, by CMU, OctoML, Catalyst et al - [Repository](https://github.com/mlc-ai/web-stable-diffusion)
 - [WebLLM](https://mlc.ai/web-llm/) - LLM inference engine, by CMU, University of Washington, OctoML, et al - [Repository](https://github.com/mlc-ai/web-llm)
+- [LazyFish AI Chat](https://lazyfish.app/ai-chat) - Browser-based LLM chat powered by WebGPU, running models entirely client-side with no API keys, servers, or data uploads.
 - [Shader Graph WGSL](https://deepkolos.github.io/shader-graph-wgsl/) - A node based shader editor, by [deepkolos](https://github.com/deepkolos) - [Repository](https://github.com/deepkolos/shader-graph-wgsl)
 - [WebGPU Memory Model Testing](https://gpuharbor.ucsc.edu/webgpu-mem-testing/) - Memory models testing suite, by [Reese Levine](https://github.com/reeselevine) et al., UC Santa Cruz - [Repository](https://github.com/reeselevine/webgpu-litmus)
 - [Marching Cubes WebGPU](https://conorpo.github.io/marching-cubes-webgpu/) - Marching cubes implementation, by [Conor O'Malley](https://github.com/conorpo) - [Repository](https://github.com/conorpo/marching-cubes-webgpu)
