@@ -144,6 +144,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
 - [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
 - [ChartGPU](https://github.com/chartgpu/chartgpu) - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
+- [RunMat](https://github.com/runmat-org/runmat) - Open-source GPU-accelerated numerical computing runtime. Runs MATLAB-syntax .m files in the browser via WASM + WebGPU with automatic GPU fusion. - [Repository](https://github.com/runmat-org/runmat)
 
 ## Debuggers and Profilers
 - [webgpu-inspector](https://github.com/brendan-duncan/webgpu_inspector) - Inspection debugger for WebGpu.
@@ -194,6 +195,7 @@ Right now, demos work best on Chrome/Edge.
 - [WebGPU Path Tracing](https://iamferm.in/webgpu-path-tracing/) - A path tracer powered by WebGPU compute shaders, by [Fermin Lozano](https://github.com/ferminLR) - [Repository](https://github.com/ferminLR/webgpu-path-tracing)
 - [WebGPU real-time ray tracer](https://github.com/C-none/Web-RTRT/) - A real-time ray tracer implementing ReSTIR algorithm - [Repository](https://github.com/C-none/Web-RTRT)
 - [Real-Time GPU Texture Compression Demo](https://ludicon.com/sparkjs/gltf-demo/) - Showcases the advantages of real-time texture compression. Compares models using KTX2 textures against AVIF + Spark.
+- [RunMat Browser Sandbox](https://runmat.com/sandbox) - GPU-accelerated MATLAB-syntax runtime running entirely in-browser via WebAssembly and WebGPU. Automatic fusion of elementwise operations into WebGPU compute shaders. - [Repository](https://github.com/runmat-org/runmat)
 
 ## Videos
 
