@@ -139,7 +139,8 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [SWGPU](https://github.com/jay19240/SWGPU) - A Simple WebGPU Game Engine.
 - [React Native WebGPU](https://github.com/wcandillon/react-native-webgpu) - React Native implementation of WebGPU using Dawn.
 - [TypeGPU](https://typegpu.com/) - TypeScript API for constructing, writing to and reading from GPU buffers with inferred type-safety.
-- [WESL](https://github.com/wgsl-tooling-wg/wesl-spec/blob/main/README.md) - WGSL extensions for `import`, `@if`, and more. 
+- [verifyfetch](https://github.com/hamzaydia/verifyfetch) - Resumable, integrity-verified downloads for large AI model files in the browser. Drop-in support for WebLLM and Transformers.js.
+- [WESL](https://github.com/wgsl-tooling-wg/wesl-spec/blob/main/README.md) - WGSL extensions for `import`, `@if`, and more.
 - [WebGpGpu.ts](https://github.com/eddow/webgpgpu) - A WebGPU framework to access compute shaders, browser or server-side, without the steep learning curve.
 - [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
 - [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
