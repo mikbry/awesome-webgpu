@@ -15,6 +15,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Libraries](#libraries)
+- [Applications](#applications)
 - [Debuggers and Profilers](#debuggers-and-profilers)
 - [Gists](#gists)
 - [Demos](#demos)
@@ -144,6 +145,10 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
 - [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
 - [ChartGPU](https://github.com/chartgpu/chartgpu) - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
+
+## Applications
+
+- [Tight Studio](https://tight.studio/) - Professional screen recorder and video editor for macOS. Uses WebGPU for real-time video compositing, effects rendering, and GPU-accelerated export.
 
 ## Debuggers and Profilers
 - [webgpu-inspector](https://github.com/brendan-duncan/webgpu_inspector) - Inspection debugger for WebGpu.
