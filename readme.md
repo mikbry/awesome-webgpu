@@ -2,7 +2,6 @@
 
 [<img src="https://www.w3.org/2023/02/webgpu-logos/webgpu-notext.svg" align="right" height="150">](https://www.w3.org/TR/webgpu/)
 
-
 > Lovely curated list of WebGPU resources, libraries and tools.
 
 WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for modern 3D and GPU computing. Its purpose is to get the best performances on recent GPUs from desktop to mobile. Unlike WebGL, WebGPU is not a port of an existing native API. It borrows concepts from Metal, Vulkan and Direct3D12.
@@ -26,22 +25,27 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 ## Websites
 
 ### Official websites
+
 - [GPUWeb](https://github.com/gpuweb/gpuweb) - Official GitHub repository.
 - [Official WebGPU Explainer](https://gpuweb.github.io/gpuweb/explainer/)
 
 ### WebGPU Specifications
+
 - [History](https://www.w3.org/standards/history/webgpu/)
 - [Editor's Draft](https://gpuweb.github.io/gpuweb/)
+
 ### WGSL (WebGPU Shading Language) Specifications
+
 - [Working Draft](https://www.w3.org/TR/WGSL/)
 - [Editor's Draft](https://gpuweb.github.io/gpuweb/wgsl/)
 
-
 ### API documentations
+
 - [API quick reference and documentation](https://webgpu.rocks/) - WebGPU.rocks.
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API) - MDN WebGPU API references.
 
 ### Misc
+
 - [Google Developers Site](https://developer.chrome.com/docs/web-platform/webgpu)
 - [107 WebGPU Projects on GitHub](https://awesomeopensource.com/projects/webgpu) - AwesomeOpenSource.com.
 - [r/WebGPU - Reddit](https://www.reddit.com/r/webgpu/) - WebGPU Subreddit.
@@ -51,22 +55,30 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [WebGPU Experts Blog](https://www.webgpuexperts.com/blog) - Monthly news about WebGPU.
 
 ## Browser support
+
 > This is an experimental technology
+
 - [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - Official W3C Group.
 - [WebGPU browser support overview](https://caniuse.com/webgpu) - CanIUse.com WebGPU.
 
 ### Chrome
+
 > Chrome and Blink/Chromium based browsers support WebGPU
+
 - [Desktop](https://www.google.com/chrome/) - WebGPU supported by default on Windows and macOS.
 - [Android](https://developer.chrome.com/blog/new-in-webgpu-121) - WebGPU is supported by default.
 - [Edge](https://www.microsoft.com/edge/) - WebGPU is supported by default.
 
 ### Firefox
+
 > WebGPU support is still experimental
+
 - [Firefox Nightly](https://nightly.mozilla.org/) - Go to `about:config` and set `dom.webgpu.enabled` to true.
 
 ### Safari
+
 > WebGPU support is still experimental
+
 - [macOS Safari TP](https://developer.apple.com/safari/resources/) - WebGPU is enabled by default since 190.
 - [macOS Safari](https://www.apple.com/safari/) - WebGPU enabled by default on macOS 26 Tahoe or later; earlier versions require the `WebGPU` feature flag.
 - [iOS/iPadOS Safari](https://mil-tokyo.github.io/webdnn/docs/tips/enable_webgpu_ios.html) - WebGPU supported by default on iOS/iPadOS 26 or later; earlier versions require `Settings` &rightarrow; `Safari` &rightarrow; `Advanced` &rightarrow; `Feature Flags` &rightarrow; `WebGPU`.
@@ -109,6 +121,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [Build a compute rasterizer in WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md) - How to build a complete rasterizer using compute shaders, by [Omar Shehata](https://github.com/OmarShehata).
 - [WebGPU Engine Development (Chinese/English)](https://arche.graphics/docs/intro) - Development process of WebGPU Engine (C++ and TypeScript).
 - [Learn WebGPU for native C++ development](https://eliemichel.github.io/LearnWebGPU) - A tutorial on WebGPU for Desktop applications using wgpu or Dawn, by [@eliemichel](https://github.com/eliemichel).
+- [A tutorial on infinite canvas with WebGPU](https://infinitecanvas.cc) - A hands-on tutorial for building a GPU-accelerated infinite canvas in the browser, with first-class WebGPU support (and WebGL) via a unified graphics API—covering ECS, SDF-based 2D primitives, GPU text, and tile-based rendering, by [@xiaoiver](https://github.com/xiaoiver).
 
 ## Books
 
@@ -139,17 +152,19 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [SWGPU](https://github.com/jay19240/SWGPU) - A Simple WebGPU Game Engine.
 - [React Native WebGPU](https://github.com/wcandillon/react-native-webgpu) - React Native implementation of WebGPU using Dawn.
 - [TypeGPU](https://typegpu.com/) - TypeScript API for constructing, writing to and reading from GPU buffers with inferred type-safety.
-- [WESL](https://github.com/wgsl-tooling-wg/wesl-spec/blob/main/README.md) - WGSL extensions for `import`, `@if`, and more. 
+- [WESL](https://github.com/wgsl-tooling-wg/wesl-spec/blob/main/README.md) - WGSL extensions for `import`, `@if`, and more.
 - [WebGpGpu.ts](https://github.com/eddow/webgpgpu) - A WebGPU framework to access compute shaders, browser or server-side, without the steep learning curve.
 - [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
 - [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
 - [ChartGPU](https://github.com/chartgpu/chartgpu) - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
 
 ## Debuggers and Profilers
+
 - [webgpu-inspector](https://github.com/brendan-duncan/webgpu_inspector) - Inspection debugger for WebGpu.
 - [webgpu-profiler](https://crates.io/crates/wgpu-profiler) - A profiler for Rust + WebGPU.
 
 These have not been updated for a while:
+
 - [webgpu-devtools](https://github.com/takahirox/webgpu-devtools) - Web browser extention.
 - [webgpu-debugger](https://github.com/webgpu/webgpu-debugger) - Early stage debugger.
 
