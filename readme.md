@@ -129,6 +129,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [Deno](https://deno.com/) - Runtime for JavaScript, TypeScript, and WebAssembly based on the V8 engine.
 - [RedCube](https://github.com/Reon90/redcube) - glTF viewer based on a WebGPU backend.
 - [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - Micro WebGPU rendering & compute library.
+- [inferis-ml](https://github.com/pashunechka/inferis-ml) - Worker pool for in-browser AI inference — WebGPU/WASM auto-detection, multi-model LRU eviction, token streaming, and cross-tab session sharing.
 - [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - A WebGPU Shading Language parser and reflection library for JavaScript.
 - [Arche Graphics](https://github.com/yangfengzzz/Arche.js) - WebGPU Graphics Engine.
 - [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper, by @eliemichel.
