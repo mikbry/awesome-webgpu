@@ -144,6 +144,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [spark.js](https://ludicon.com/sparkjs/) - A real-time GPU texture compression library for WebGPU.
 - [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
 - [ChartGPU](https://github.com/chartgpu/chartgpu) - High-performance charting library built on WebGPU, handles 1M+ data points at 60fps.
+- [Anneal](https://github.com/georgebuilds/anneal) - Machine learning compiler in Go that targets WebGPU and generates WGSL compute shaders.
 
 ## Debuggers and Profilers
 - [webgpu-inspector](https://github.com/brendan-duncan/webgpu_inspector) - Inspection debugger for WebGpu.
