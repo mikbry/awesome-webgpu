@@ -194,6 +194,7 @@ Right now, demos work best on Chrome/Edge.
 - [WebGPU Path Tracing](https://iamferm.in/webgpu-path-tracing/) - A path tracer powered by WebGPU compute shaders, by [Fermin Lozano](https://github.com/ferminLR) - [Repository](https://github.com/ferminLR/webgpu-path-tracing)
 - [WebGPU real-time ray tracer](https://github.com/C-none/Web-RTRT/) - A real-time ray tracer implementing ReSTIR algorithm - [Repository](https://github.com/C-none/Web-RTRT)
 - [Real-Time GPU Texture Compression Demo](https://ludicon.com/sparkjs/gltf-demo/) - Showcases the advantages of real-time texture compression. Compares models using KTX2 textures against AVIF + Spark.
+- [WebGPU N-Body Galaxy](https://dakerboul.github.io/nbody-webgpu/) - A real-time gravitational N-body galaxy, all-pairs gravity computed on compute shaders each frame, by [Ethan Kerboul](https://github.com/DaKerboul) - [Repository](https://github.com/DaKerboul/nbody-webgpu)
 
 ## Videos
 
