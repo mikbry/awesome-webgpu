@@ -54,6 +54,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 > This is an experimental technology
 - [Implementation status](https://github.com/gpuweb/gpuweb/wiki/Implementation-Status) - Official W3C Group.
 - [WebGPU browser support overview](https://caniuse.com/webgpu) - CanIUse.com WebGPU.
+- [WebGPU & WebGL Checker](https://app.cinevva.com/tools/webgl-webgpu-checker) - Test a browser's WebGPU and WebGL 2 support, adapter, limits, and features with a live render test.
 
 ### Chrome
 > Chrome and Blink/Chromium based browsers support WebGPU
