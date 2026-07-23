@@ -122,6 +122,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [PixiJS](https://pixijs.com/) - 2D rendering engine with a WebGPU renderer.
 - [Dawn](https://dawn.googlesource.com/dawn) - Google implementation that powers WebGPU in Chromium, can be used as a standalone package.
 - [wgpu](https://github.com/gfx-rs/wgpu) - Mozilla implementation used in Firefox. Like Dawn, can be used as a standalone package.
+- [Airframe](https://github.com/Michael-A-Kuykendall/airframe) - Pure-Rust WebGPU inference engine for GGUF models.
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
 - [sokol](https://github.com/floooh/sokol/) - Simple STB-style cross-platform libraries for C and C++.
 - [RedGPU](https://github.com/redcamel/RedGPU) - JavaScript WbeGPU library, by [@redcamel](https://github.com/redcamel).
