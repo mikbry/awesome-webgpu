@@ -109,6 +109,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [Build a compute rasterizer in WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md) - How to build a complete rasterizer using compute shaders, by [Omar Shehata](https://github.com/OmarShehata).
 - [WebGPU Engine Development (Chinese/English)](https://arche.graphics/docs/intro) - Development process of WebGPU Engine (C++ and TypeScript).
 - [Learn WebGPU for native C++ development](https://eliemichel.github.io/LearnWebGPU) - A tutorial on WebGPU for Desktop applications using wgpu or Dawn, by [@eliemichel](https://github.com/eliemichel).
+- [Learn vgpu](https://endash.us/apps/learn-vgpu) - Interactive studio for [vgpu](https://github.com/vercel-labs/vgpu), Vercel's TypeScript WebGPU library: edit WGSL live and step through init, effect, frame, and target, with the same program shown for browser, Node, and CI. No install, no API key, by [En Dash](https://endash.us).
 
 ## Books
 
@@ -194,6 +195,7 @@ Right now, demos work best on Chrome/Edge.
 - [WebGPU Path Tracing](https://iamferm.in/webgpu-path-tracing/) - A path tracer powered by WebGPU compute shaders, by [Fermin Lozano](https://github.com/ferminLR) - [Repository](https://github.com/ferminLR/webgpu-path-tracing)
 - [WebGPU real-time ray tracer](https://github.com/C-none/Web-RTRT/) - A real-time ray tracer implementing ReSTIR algorithm - [Repository](https://github.com/C-none/Web-RTRT)
 - [Real-Time GPU Texture Compression Demo](https://ludicon.com/sparkjs/gltf-demo/) - Showcases the advantages of real-time texture compression. Compares models using KTX2 textures against AVIF + Spark.
+- [vgpu Shader on Live HTML](https://html-in-canvas.dev/demos/vgpu-shader/) - A WebGPU foil shader (via Vercel's [vgpu](https://github.com/vercel-labs/vgpu)) warping real DOM content painted into canvas with the HTML-in-Canvas API, by [En Dash](https://endash.us).
 
 ## Videos
 
