@@ -125,6 +125,7 @@ WebGPU is a work in progress Web standard from [W3C](https://www.w3.org/) for mo
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
 - [sokol](https://github.com/floooh/sokol/) - Simple STB-style cross-platform libraries for C and C++.
 - [RedGPU](https://github.com/redcamel/RedGPU) - JavaScript WbeGPU library, by [@redcamel](https://github.com/redcamel).
+- [everything-webgpu](https://github.com/nyaaorick/everything-webgpu) - Scheduled local MLC/WebLLM inference engine on WebGPU with priority scheduling and multi-step decoding.
 - [WebGPU .NET](https://github.com/WaveEngine/WebGPU.NET) - .NET bindings, built on top of wgpu.
 - [Deno](https://deno.com/) - Runtime for JavaScript, TypeScript, and WebAssembly based on the V8 engine.
 - [RedCube](https://github.com/Reon90/redcube) - glTF viewer based on a WebGPU backend.
