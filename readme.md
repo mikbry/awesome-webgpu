@@ -141,6 +141,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [zephyr3d](https://zephyr3d.org/) - A TypeScript-based 3D rendering engine with WebGPU/WebGL support.
 - [ChartGPU](https://github.com/chartgpu/chartgpu) - Interactive charting library using WebGPU for rendering.
 - [vgpu](https://vgpu.sh/) - TypeScript WebGPU library with typed WGSL imports and a shared API for browsers, Node.js, and tests.
+- [RunMat](https://github.com/runmat-org/runmat) - GPU-accelerated numerical computing runtime for MATLAB-syntax programs, with browser execution through WebAssembly and WebGPU.
 
 ## AI libraries
 
@@ -190,6 +191,7 @@ Demo compatibility depends on browser support and the features required by each 
 - [WebGPU real-time ray tracer](https://github.com/C-none/Web-RTRT/) - A real-time ray tracer implementing the ReSTIR algorithm.
 - [Real-Time GPU Texture Compression Demo](https://ludicon.com/sparkjs/gltf-demo/) - Showcases the advantages of real-time texture compression. Compares models using KTX2 textures against AVIF + Spark.
 - [vgpu Shader on Live HTML](https://html-in-canvas.dev/demos/vgpu-shader/) - Shader demo applying WebGPU effects to HTML content; requires the experimental canvas-draw-element browser flag.
+- [RunMat Browser Sandbox](https://runmat.com/sandbox) - Browser playground for MATLAB-syntax numerical programs accelerated with WebGPU.
 
 ## Videos
 
