@@ -101,6 +101,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [LearningWebGPU 教程 (Chinese)](https://github.com/hjlld/LearningWebGPU) - Tutorials using WGSL; the older GLSL-to-SPIR-V branch is deprecated.
 - [Build a compute rasterizer in WebGPU](https://github.com/OmarShehata/webgpu-compute-rasterizer/blob/main/how-to-build-a-compute-rasterizer.md) - How to build a complete rasterizer using compute shaders, by [Omar Shehata](https://github.com/OmarShehata).
 - [Learn WebGPU for native C++ development](https://eliemichel.github.io/LearnWebGPU) - A tutorial on WebGPU for Desktop applications using wgpu or Dawn, by [@eliemichel](https://github.com/eliemichel).
+- [Learn vgpu](https://endash.us/apps/learn-vgpu) - Interactive introduction to the vgpu API with live WGSL editing.
 
 ## Books
 
@@ -188,6 +189,7 @@ Demo compatibility depends on browser support and the features required by each 
 - [WebGPU Path Tracing](https://iamferm.in/webgpu-path-tracing/) - A path tracer powered by WebGPU compute shaders, by [Fermin Lozano](https://github.com/ferminLR) - [Repository](https://github.com/ferminLR/webgpu-path-tracing)
 - [WebGPU real-time ray tracer](https://github.com/C-none/Web-RTRT/) - A real-time ray tracer implementing the ReSTIR algorithm.
 - [Real-Time GPU Texture Compression Demo](https://ludicon.com/sparkjs/gltf-demo/) - Showcases the advantages of real-time texture compression. Compares models using KTX2 textures against AVIF + Spark.
+- [vgpu Shader on Live HTML](https://html-in-canvas.dev/demos/vgpu-shader/) - Shader demo applying WebGPU effects to HTML content; requires the experimental canvas-draw-element browser flag.
 
 ## Videos
 
