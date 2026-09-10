@@ -161,6 +161,10 @@ Availability depends on the browser version, operating system, GPU, and driver.
 
 - [2D](https://gist.github.com/munrocket/30e645d584b5300ee69295e54674b3e4) and [3D SDF Primitives](https://gist.github.com/munrocket/f247155fc22ecb8edf974d905c677de1) - Signed distance field primitives in WGSL, by [@munrocket](https://github.com/munrocket).
 
+## Applications
+
+- [zero.hypatia.earth](https://zero.hypatia.earth) - A serverless 4D weather globe with ECMWF forecast data. - [Repository](https://github.com/hypatia-earth/zero)
+- 
 ## Demos
 
 Demo compatibility depends on browser support and the features required by each application.
