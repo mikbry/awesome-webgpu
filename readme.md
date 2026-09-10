@@ -127,6 +127,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [Deno](https://docs.deno.com/runtime/desktop/webgpu/) - JavaScript and TypeScript runtime with WebGPU support through the `--unstable-webgpu` flag.
 - [RedCube](https://github.com/Reon90/redcube) - glTF viewer based on a WebGPU backend.
 - [hwoa-rang-gpu](https://github.com/gnikoloff/hwoa-rang-gpu) - Micro WebGPU rendering & compute library.
+- [inferis-ml](https://github.com/pashunechka/inferis-ml) - Worker pool for in-browser AI inference — WebGPU/WASM auto-detection, multi-model LRU eviction, token streaming, and cross-tab session sharing.
 - [wgsl_reflect](https://github.com/brendan-duncan/wgsl_reflect) - A WebGPU Shading Language parser and reflection library for JavaScript.
 - [WebGPU-C++](https://github.com/eliemichel/WebGPU-Cpp) - A single-file zero-overhead C++ idiomatic wrapper, by @eliemichel.
 - [Use.GPU](https://usegpu.live) - Reactive/declarative WebGPU runtime.
