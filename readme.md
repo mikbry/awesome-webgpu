@@ -151,6 +151,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [WebLLM](https://webllm.mlc.ai/) - Browser language-model inference engine accelerated with WebGPU.
 - [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/ep-webgpu.html) - Browser inference runtime with a WebGPU execution provider for ONNX models.
 - [Transformers.js](https://huggingface.co/docs/transformers.js/en/guides/webgpu) - JavaScript machine-learning library with WebGPU acceleration through ONNX Runtime.
+- [borch](https://playidea-lab.github.io/borch/) - PyTorch-shaped tensor library that trains in the browser on WebGPU (autograd, nn, optim, int8, ONNX export), with a Pyodide binding; benchmarked on one page against TF.js and ONNX Runtime Web.
 
 ## Debuggers and Profilers
 
