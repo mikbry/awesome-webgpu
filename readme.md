@@ -145,6 +145,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [Vienna WebGPU Engine](https://github.com/hlavacs/Vienna-WebGPU-Engine) - Educational C++ game engine built on WebGPU, with rendering tutorials and native and browser backends.
 - [Points](https://github.com/Absulit/points) - Generative art library built with WebGPU.
 - [fisheye.js](https://github.com/GyeongHoKim/fisheye.js) - WebGPU compute library for fisheye image and video correction using WebCodecs.
+- [Winding](https://github.com/nolanbaxter/winding) - WebGPU rendering engine for 3D and 2D in the browser, with no dependencies or build step.
 
 ## AI libraries
 
