@@ -198,6 +198,7 @@ Demo compatibility depends on browser support and the features required by each 
 - [RunMat Browser Sandbox](https://runmat.com/sandbox) - Browser playground for MATLAB-syntax numerical programs accelerated with WebGPU.
 - [DoG Studio](https://dougfenstermacher.com/dogpack/) - WebGPU image and video processing demo for configurable Difference-of-Gaussians line art and screentone effects, with [source code](https://github.com/dpfens/dogpack).
 - [Points examples](https://absulit.github.io/points/examples/index.html) - Generative art demos covering particles, render passes, and other WebGPU techniques.
+- [Museum of Ages](https://museumofages.org/leonardo-da-vinci/) - A digital museum of Leonardo da Vinci's last house, his machines and paintings, filmed in its own three.js engine on WebGPU with TSL materials and a WebGL2 fallback. A machine's close look is drawn live on a desktop that keeps up, and the [source code](https://github.com/chipmates/museumofages) is AGPL.
 
 ## Videos
 
