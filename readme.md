@@ -198,6 +198,7 @@ Demo compatibility depends on browser support and the features required by each 
 - [RunMat Browser Sandbox](https://runmat.com/sandbox) - Browser playground for MATLAB-syntax numerical programs accelerated with WebGPU.
 - [DoG Studio](https://dougfenstermacher.com/dogpack/) - WebGPU image and video processing demo for configurable Difference-of-Gaussians line art and screentone effects, with [source code](https://github.com/dpfens/dogpack).
 - [Points examples](https://absulit.github.io/points/examples/index.html) - Generative art demos covering particles, render passes, and other WebGPU techniques.
+- [PixVibe Background Remover](https://pixvibe.ai/tools/remove-background) - In-browser background removal; the high-quality modes run BiRefNet with the ONNX Runtime Web WebGPU execution provider, and the standard mode falls back to WASM.
 
 ## Videos
 
