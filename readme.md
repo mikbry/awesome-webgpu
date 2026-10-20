@@ -91,6 +91,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [WebGPU for Dummies](https://people.distributive.network/amir/WebGPU-For-Dummies.html) - By Amir Sojoodi.
 - [WebGPU Timestamps](https://amirsojoodi.github.io/posts/WebGPU-Timestamp/) - By Amir Sojoodi.
 - [WebAssembly and WebGPU](https://developer.chrome.com/blog/io24-webassembly-webgpu-2) - Browser machine-learning performance enhancements, by Google.
+- [How I Built a WebGPU 3D Garden with Houdini and Three.js](https://digitalgarden.si/blog/webgpu-garden-houdini-threejs/) - Case study of a Houdini to glTF to three.js WebGPU pipeline for an interactive 3D garden (2026).
 
 ## Tutorials
 
