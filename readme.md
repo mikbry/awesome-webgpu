@@ -118,6 +118,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [Three.js](https://threejs.org/) - 3D library with WebGPURenderer and Three.js Shading Language (TSL) for shader authoring.
 - [PlayCanvas](https://playcanvas.com/) - Web-based game engine with WebGPU support.
 - [PixiJS](https://pixijs.com/) - 2D rendering engine with a WebGPU renderer.
+- [melonJS](https://melonjs.org/) - 2D & 3D HTML5 game engine with a WebGPU renderer (WebGL 2 and Canvas fallback), glTF scenes and Tiled maps.
 - [Dawn](https://dawn.googlesource.com/dawn) - Google implementation that powers WebGPU in Chromium, can be used as a standalone package.
 - [wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform Rust graphics API based on WebGPU, used by Firefox and native applications.
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
