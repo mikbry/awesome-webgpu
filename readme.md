@@ -165,6 +165,8 @@ Availability depends on the browser version, operating system, GPU, and driver.
 
 ## Demos
 
+- [Drop & Clean](https://dropcleandone.com) - 100% in-browser private media suite running WebGPU and WebAssembly for 48kHz audio denoise, video remux, and PDF redaction - [Repository](https://github.com/AIsNeverDie/Almond)
+
 Demo compatibility depends on browser support and the features required by each application.
 
 - [WebGPU Samples](https://webgpu.github.io/webgpu-samples/) - A set of samples and demos demonstrating the use of the WebGPU API - [Repository](https://github.com/webgpu/webgpu-samples)
