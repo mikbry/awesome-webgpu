@@ -121,7 +121,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [Dawn](https://dawn.googlesource.com/dawn) - Google implementation that powers WebGPU in Chromium, can be used as a standalone package.
 - [wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform Rust graphics API based on WebGPU, used by Firefox and native applications.
 - [webgpu-headers](https://github.com/webgpu-native/webgpu-headers) - C/C++ headers.
-- [sokol](https://github.com/floooh/sokol/) - Simple STB-style cross-platform libraries for C and C++.
+- [sokol](https://github.com/floooh/sokol/) - Simple STB-style cross-platform libraries for C and C.
 - [RedGPU](https://github.com/redcamel/RedGPU) - JavaScript WebGPU library, by [@redcamel](https://github.com/redcamel).
 - [WebGPU .NET](https://github.com/EvergineTeam/WebGPU.NET) - Browser-focused .NET bindings for the Emscripten WebGPU API.
 - [Deno](https://docs.deno.com/runtime/desktop/webgpu/) - JavaScript and TypeScript runtime with WebGPU support through the `--unstable-webgpu` flag.
@@ -182,7 +182,7 @@ Demo compatibility depends on browser support and the features required by each 
 - [wgpu examples](https://wgpu.rs/examples/) - Official list of examples from the [wgpu](https://wgpu.rs) library - [Repository](https://github.com/gfx-rs/wgpu/tree/trunk/examples)
 - [Forest WebGPU](https://www.babylonjs.com/Demos/WebGPU/forestWebGPU.html) - A scene built with Babylon.js.
 - [WebGPU-Playground](https://06wj.github.io/WebGPU-Playground/) - A playground to experiment with WebGPU, by [@06wj](https://github.com/06wj) - [Repository](https://github.com/06wj/WebGPU-Playground)
-- [WebGPU 2D Fluid Simulation](https://kishimisu.github.io/WebGPU-Fluid-Simulation/) - An implementation of "Real-Time Fluid Dynamics for Games" paper, by [kishimisu](https://github.com/kishimisu) - [Repository](https://github.com/kishimisu/WebGPU-Fluid-Simulation)
+- [WebGPU 2D Fluid Simulation](https://kishimisu.github.io/WebGPU-Fluid-Simulation/) - An implementation of "Real-Time Fluid Dynamics for Games" paper, by [kishimisu](https://github.com/kishimisu/WebGPU-Fluid-Simulation)
 - [WebGPU-Lab](https://s-macke.github.io/WebGPU-Lab/) - Demos and experiments, focused on compute shaders, by [Sebastian Macke](https://github.com/s-macke) - [Repository](https://github.com/s-macke/WebGPU-Lab)
 - [WebGPU Live Demo Editor](https://www.wgsl.dev/editor) - A collection of WebGPU examples by [Hepp Maccoy](https://github.com/hepp) - [Repository](https://github.com/hepp/webgpu-examples)
 - [Thimbleberry Image Transform Demo](https://thimbleberry.dev) - An Image processing app built using Thimbleberry, by [mighdoll](https://vis.social/@mighdoll) - [Repository](https://github.com/mighdoll/thimbleberry/tree/main/image-demo)
@@ -197,6 +197,7 @@ Demo compatibility depends on browser support and the features required by each 
 - [vgpu Shader on Live HTML](https://html-in-canvas.dev/demos/vgpu-shader/) - Shader demo applying WebGPU effects to HTML content; requires the experimental canvas-draw-element browser flag.
 - [RunMat Browser Sandbox](https://runmat.com/sandbox) - Browser playground for MATLAB-syntax numerical programs accelerated with WebGPU.
 - [DoG Studio](https://dougfenstermacher.com/dogpack/) - WebGPU image and video processing demo for configurable Difference-of-Gaussians line art and screentone effects, with [source code](https://github.com/dpfens/dogpack).
+- [ClearPix](https://clearpix.org/) - Free in-browser AI toolkit for watermark removal, burned-in subtitle erasure and 2×–4× image/video upscaling; MI-GAN, LaMa and Real-ESRGAN compiled to ONNX and accelerated with the WebGPU execution provider, so files never leave the device.
 - [Points examples](https://absulit.github.io/points/examples/index.html) - Generative art demos covering particles, render passes, and other WebGPU techniques.
 
 ## Videos
