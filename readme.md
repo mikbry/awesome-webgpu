@@ -151,6 +151,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [WebLLM](https://webllm.mlc.ai/) - Browser language-model inference engine accelerated with WebGPU.
 - [ONNX Runtime Web](https://onnxruntime.ai/docs/tutorials/web/ep-webgpu.html) - Browser inference runtime with a WebGPU execution provider for ONNX models.
 - [Transformers.js](https://huggingface.co/docs/transformers.js/en/guides/webgpu) - JavaScript machine-learning library with WebGPU acceleration through ONNX Runtime.
+- [WebSR](https://github.com/sb2702/websr) - Real-time AI super-resolution for video and images, written as hand-made WebGPU compute shaders.
 
 ## Debuggers and Profilers
 
