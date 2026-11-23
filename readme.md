@@ -188,6 +188,7 @@ Demo compatibility depends on browser support and the features required by each 
 - [Thimbleberry Image Transform Demo](https://thimbleberry.dev) - An Image processing app built using Thimbleberry, by [mighdoll](https://vis.social/@mighdoll) - [Repository](https://github.com/mighdoll/thimbleberry/tree/main/image-demo)
 - [Shadowray Playground](https://www.shadowray.gl/) - Demo of an experimental ray-tracing layer implemented with WebGPU compute shaders.
 - [Web Stable Diffusion](https://websd.mlc.ai/) - Early browser image-generation demo using WebGPU, with [source code](https://github.com/mlc-ai/web-stable-diffusion).
+- [goodbye.bg](https://goodbye.bg/) - Background remover running BiRefNet with ONNX Runtime Web on WebGPU, with a WebAssembly fallback - [Repository](https://github.com/kevinebaugh/goodbye.bg)
 - [Shader Graph WGSL](https://deepkolos.github.io/shader-graph-wgsl/) - A node based shader editor, by [deepkolos](https://github.com/deepkolos) - [Repository](https://github.com/deepkolos/shader-graph-wgsl)
 - [WebGPU Memory Model Testing](https://gpuharbor.ucsc.edu/webgpu-mem-testing/) - Memory models testing suite, by [Reese Levine](https://github.com/reeselevine) et al., UC Santa Cruz - [Repository](https://github.com/reeselevine/webgpu-litmus)
 - [Marching Cubes WebGPU](https://conorpo.github.io/marching-cubes-webgpu/) - Marching cubes implementation, by [Conor O'Malley](https://github.com/conorpo) - [Repository](https://github.com/conorpo/marching-cubes-webgpu)
