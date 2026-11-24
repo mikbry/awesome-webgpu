@@ -199,6 +199,8 @@ Demo compatibility depends on browser support and the features required by each 
 - [DoG Studio](https://dougfenstermacher.com/dogpack/) - WebGPU image and video processing demo for configurable Difference-of-Gaussians line art and screentone effects, with [source code](https://github.com/dpfens/dogpack).
 - [Points examples](https://absulit.github.io/points/examples/index.html) - Generative art demos covering particles, render passes, and other WebGPU techniques.
 
+- [AIAC Browser-Local Whisper & Stem Separation](https://aiac.app/mp3-to-text/) - Zero-upload browser audio studio running quantized Whisper transcription and Meta HTDemucs v4 neural stem separation locally via ONNX Runtime Web (WebGPU with WASM fallback).
+
 ## Videos
 
 - [WebGL to WebGPU (playlist)](https://www.youtube.com/playlist?list=PLMinhigDWz6f5Nm_GYGREYnaf9mzoNdjX) - By [SketchpunkLabs](https://www.youtube.com/c/SketchpunkLabs)
