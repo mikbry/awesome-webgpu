@@ -145,6 +145,7 @@ Availability depends on the browser version, operating system, GPU, and driver.
 - [Vienna WebGPU Engine](https://github.com/hlavacs/Vienna-WebGPU-Engine) - Educational C++ game engine built on WebGPU, with rendering tutorials and native and browser backends.
 - [Points](https://github.com/Absulit/points) - Generative art library built with WebGPU.
 - [fisheye.js](https://github.com/GyeongHoKim/fisheye.js) - WebGPU compute library for fisheye image and video correction using WebCodecs.
+- [Underglass](https://github.com/RaananW/underglass) - React and Vue framework that draws an app's own DOM controls through WebGPU with HTML-in-Canvas, for GPU motion and WGSL effects while inputs, focus and clicks stay native.
 
 ## AI libraries
 
@@ -198,6 +199,7 @@ Demo compatibility depends on browser support and the features required by each 
 - [RunMat Browser Sandbox](https://runmat.com/sandbox) - Browser playground for MATLAB-syntax numerical programs accelerated with WebGPU.
 - [DoG Studio](https://dougfenstermacher.com/dogpack/) - WebGPU image and video processing demo for configurable Difference-of-Gaussians line art and screentone effects, with [source code](https://github.com/dpfens/dogpack).
 - [Points examples](https://absulit.github.io/points/examples/index.html) - Generative art demos covering particles, render passes, and other WebGPU techniques.
+- [Underglass gallery](https://underglass.dev/) - Real React controls presented through WebGPU with HTML-in-Canvas, including a koi pond whose HTML text is refracted by a WGSL water shader; GPU mode needs Chrome or Edge 157 - [Repository](https://github.com/RaananW/underglass)
 
 ## Videos
 
